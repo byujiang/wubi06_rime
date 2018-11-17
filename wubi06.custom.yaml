@@ -16,4 +16,20 @@
 #   'recognizer/patterns/punct': "^/([a-z]+|[0-9])$"
 
 #   show_notifications_via_notification_center: false
-#   us_keyboard_layout: true
+# 
+patch:
+    engine/translators:
+        - punct_translator
+        - r10n_translator
+        - reverse_lookup_translator
+    recognizer/patterns/reverse_lookup: "`[a-z]*$"   #请删除$后的空格！不加一个空格貌似总是解析错误，不知道MarkDown我还有多少不知道的地方:(
+    schema/dependencies:
+        - emoji
+    abc_segmentor/extra_tags:
+        - reverse_lookup
+    reverse_lookup:
+        dictionary: emoji
+        enable_completion: false
+        prefix: "`"
+        tips: 〔表情〕
+    us_keyboard_layout: true

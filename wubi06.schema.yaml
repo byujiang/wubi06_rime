@@ -1,4 +1,31 @@
-customization: 173635732
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: wubi06
+  name: "新世纪五笔"
+  version: 0.2.custom.2018111715
+  author:
+    - "發明人 王永民先生"
+    - "制作人 Amito"
+  description:
+    新世纪五笔
+    碼表源自 qq， ibus extra_phase
+    敲 z 鍵進入拼音反查
+
+customization: 2018111715
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["中文", "英文"]
+  - name: full_shape
+    states: ["半角", "全角"]
+  - name: extended_charset
+    states: ["通用", "增廣"]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
 engine:
   processors:
     - ascii_composer
@@ -46,13 +73,16 @@ preset_color_schemes:
     label_font_point: 11
     name: "冷漠 / Apathy"
     text_color: 0x424242
+
 punctuator:
   import_preset: symbols
+
 recognizer:
   import_preset: default
   patterns:
     punct: "^/([a-z]+|[0-9])$"
     reverse_lookup: "^z[a-z]*$"
+
 reverse_lookup:
   dictionary: pinyin_simp
   preedit_format:
@@ -60,33 +90,16 @@ reverse_lookup:
     - "xform/([jqxy])v/$1u/"
   prefix: z
   tips: "[拼音]"
-schema:
-  author:
-    - "發明人 王永民先生"
-  description: |
-    五筆字型新世纪五笔
-    碼表源自 qq
-    敲 z 鍵進入拼音反查
-    
-  name: "新世纪五笔"
-  schema_id: wubi06
-  version: 0.1.custom.173635732
 
+show_notifications_via_notification_center: true
 
-show_notifications_via_notification_center: false
 speller:
   delimiter: " ;'"
   max_code_length: 4
+
 style:
   color_scheme: apathy
-switches:
-  - name: ascii_mode
-    reset: 0
-    states: ["中文", "英文"]
-  - name: full_shape
-    states: ["半角", "全角"]
-  - name: extended_charset
-    states: ["通用", "增廣"]
+
 translator:
   dictionary: wubi06
   disable_user_dict_for_patterns:
@@ -99,4 +112,5 @@ translator:
   enable_user_dict: true
   encode_commit_history: true
   max_phrase_length: 4
+
 us_keyboard_layout: true

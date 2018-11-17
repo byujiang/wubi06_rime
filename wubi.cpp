@@ -222,8 +222,8 @@ int main(int argc, const char *argv[]) {
 				}
 			}
 		}
-		rnd = rand() % 2048+1; cnt++;
-		out << "     " << rnd << endl;
+		rnd = rand() % 1024+1; cnt++;
+		out << "\t" << rnd << endl;
 	}
 	
 	wcout << "Good " << endl;
