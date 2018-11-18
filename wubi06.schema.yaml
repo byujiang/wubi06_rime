@@ -9,8 +9,7 @@ schema:
     - "發明人 王永民先生"
     - "制作人 Amito"
   description:
-    新世纪五笔
-    碼表源自 qq， ibus extra_phase
+    新世纪五笔 Amito
     敲 z 鍵進入拼音反查
   dependencies:
     - emoji

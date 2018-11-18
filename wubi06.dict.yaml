@@ -26,7 +26,7 @@
 
 ---
 name: wubi06
-version: "0.4"
+version: "0.5"
 sort: by_weight
 columns:
   - text
@@ -25821,7 +25821,8 @@ encoder:
 璃	gyr	17
 璃	gyrc	1
 天高气爽	gyrd	610
-开放搞活	gyri	719
+玉泉	gyri	719
+开放搞活	gyri	19
 玉帛	gyrm	34
 理论指导	gyrn	935
 更高的	gyrq	750

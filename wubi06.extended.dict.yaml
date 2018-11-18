@@ -16,14 +16,12 @@ import_tables:
   #### wubi06 is neccessary
   - wubi06
   #### the following are extended dicts
-  - wubi06.user
-  - wubi06.net
+  - wubi06.idiom
+  - wubi06.poetry
+  - wubi06.chat
   - wubi06.life
   - wubi06.symbols
-  - wubi06.poetry
-  - wubi06.idiom
-  - wubi06.computer
-  - wubi06.place
-  - wubi06.chat
+  - wubi06.science
+  # - wubi06.taiwan
 
 ...

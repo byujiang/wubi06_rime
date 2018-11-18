@@ -4,11 +4,12 @@
 schema:
   schema_id: wubi06_pinyin
   name: "新世纪五笔·拼音"
-  version: "0.1"
+  version: "0.2"
   author:
-    - 發明人 王永民先生
+    - "發明人 王永民先生"
+    - "制作人 Amito"
   description: |
-    新世纪五筆字型＋漢語拼音混合輸入。
+    新世纪五笔＋拼音 Amito
   dependencies:
     - pinyin_simp
 
