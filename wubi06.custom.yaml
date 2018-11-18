@@ -1,5 +1,5 @@
-# wubi06.custom.yaml
-# save it to: 
+# wubi06.custo.yaml
+# save it to:
 #   ~/.config/ibus/rime  (linux)
 #   ~/Library/Rime       (macos)
 #   %APPDATA%\Rime       (windows)
@@ -18,11 +18,13 @@
 #   show_notifications_via_notification_center: false
 # 
 patch:
+    translator/dictionary: wubi06.extended
     engine/translators:
         - punct_translator
         - r10n_translator
         - reverse_lookup_translator
-    recognizer/patterns/reverse_lookup: "`[a-z]*$"   #请删除$后的空格！不加一个空格貌似总是解析错误，不知道MarkDown我还有多少不知道的地方:(
+    punctuator/import_preset: symbols
+    recognizer/patterns/reverse_lookup: "`[a-z]*$"   #请删除$后的空格！
     schema/dependencies:
         - emoji
     abc_segmentor/extra_tags:

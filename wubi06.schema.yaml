@@ -12,6 +12,8 @@ schema:
     新世纪五笔
     碼表源自 qq， ibus extra_phase
     敲 z 鍵進入拼音反查
+  dependencies:
+    - emoji
 
 customization: 2018111715
 

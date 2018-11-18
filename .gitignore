@@ -32,3 +32,6 @@
 *.app
 
 dict/
+tmp/
+dict.*
+gen_code
