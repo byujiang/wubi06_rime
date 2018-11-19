@@ -3,3 +3,4 @@ LICENSE export-ignore
 single.txt export-ignore
 README* export-ignore
 scel.py export-ignore
+.git* export-ignore
