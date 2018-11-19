@@ -12,6 +12,12 @@
 #
 
 ---
+name: wubi06.scymbols
+version: "2018.11.19"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
 ×	tux	11
 à	aad	11
 á	aab	11

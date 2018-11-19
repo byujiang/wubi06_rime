@@ -12,6 +12,12 @@
 #
 
 ---
+name: wubi06.science
+version: "2018.11.19"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
 蔷薇花形运动	aaaf	680
 艾莉萨病毒	aaag	934
 芬斯勒流形	aaag	993

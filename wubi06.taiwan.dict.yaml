@@ -12,6 +12,12 @@
 #
 
 ---
+name: wubi06.taiwan
+version: "2018.11.19"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
 一一七	ggagn	40
 一一三	ggdggg	76
 一一九	ggvtn	47

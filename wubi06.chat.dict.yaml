@@ -10,8 +10,13 @@
 #
 # 於重新部署後生效
 #
-
 ---
+name: wubi06.chat
+version: "2018.11.19"
+sort: by_weight
+use_preset_vocabulary: true
+
+...
 蒋莉萨	aaab	354
 莉莉斯	aaad	35
 欧莱雅男士	aaaf	299

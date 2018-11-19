@@ -12,6 +12,12 @@
 #
 
 ---
+name: wubi06.idiom
+version: "2018.11.19"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
 菲斯蒂沃斯	aaaa	249
 茹荼攻蓼	aaaa	39
 燕燕莺莺	aaaa	587

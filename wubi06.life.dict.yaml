@@ -12,6 +12,12 @@
 #
 
 ---
+name: wubi06.life
+version: "2018.11.19"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
 莲花苑小区	aaaa	384
 葫芦葫芦	aaaa	410
 莲芳东桥东	aaaa	520

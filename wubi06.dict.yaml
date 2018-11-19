@@ -44,6 +44,7 @@ encoder:
     - length_in_range: [4, 10]
       formula: "AaBaCaZa"
 ...
+
 戈	a	0	ag
 工	a	3771	aa
 式	aa	12938
