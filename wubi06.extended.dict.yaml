@@ -22,6 +22,8 @@ import_tables:
   - wubi06.life
   - wubi06.symbols
   - wubi06.science
+  - wubi06.place
+  - wubi06.computer
   - wubi06.taiwan
 
 ...
