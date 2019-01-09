@@ -4,7 +4,7 @@
 schema:
   schema_id: wubi06_pinyin
   name: "新世纪五笔·拼音"
-  version: "0.2"
+  version: "0.3"
   author:
     - "發明人 王永民先生"
     - "制作人 Amito"
@@ -50,7 +50,8 @@ speller:
   #max_code_length: 4  # 四碼頂字上屏
 
 translator:
-  dictionary: wubi06.extended
+ # dictionary: wubi06.extended
+  dictionary: wubi06
   prism: wubi06_pinyin
   enable_charset_filter: true
   enable_sentence: true

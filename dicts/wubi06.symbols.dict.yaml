@@ -1,0 +1,180 @@
+# Rime dictionary for wubi06
+# encoding: utf-8
+#
+# Dict: extra symbols
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: wubi06.scymbols
+version: "2018.11.19"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+×	tux	11
+à	aad	11
+á	aab	11
+è	eed	11
+é	eeb	11
+ê	eee	11
+ì	iid	11
+í	iib	11
+ò	ood	11
+ó	oob	11
+÷	bwg	11
+ù	uud	11
+ú	uub	11
+ü	vve	11
+ā	aaa	11
+ē	eea	11
+ě	eec	11
+ī	iia	11
+ń	nnb	11
+ň	nnc	11
+ō	ooa	11
+ū	uua	11
+ǎ	aac	11
+ǐ	iic	11
+ǒ	ooc	11
+ǔ	uuc	11
+ǖ	vva	11
+ǘ	vvb	11
+ǚ	vvc	11
+ǜ	vvd	11
+ɑ	aae	11
+ɡ	gge	11
+Α	alpha	11
+Β	beta	11
+Γ	gamma	11
+Δ	delta	11
+Ε	epsilon	11
+Ζ	zeta	11
+Η	eta	11
+Θ	theta	11
+Ι	iota	11
+Κ	kappa	11
+Λ	lambda	11
+Μ	mu	11
+Ν	nu	11
+Ξ	xi	11
+Ο	omicron	11
+Π	pi	11
+Ρ	rho	11
+Σ	sigma	11
+Τ	tau	11
+Υ	upsilon	11
+Φ	phi	11
+Χ	chi	11
+Ψ	psi	11
+Ω	omega	11
+α	alpha	11
+β	beta	11
+γ	gamma	11
+δ	delta	11
+ε	epsilon	11
+ζ	zeta	11
+η	eta	11
+θ	theta	11
+ι	iota	11
+κ	kappa	11
+λ	lambda	11
+μ	mu	11
+ν	nu	11
+ξ	xi	11
+ο	omicron	11
+π	pi	11
+ρ	rho	11
+σ	sigma	11
+τ	tau	11
+υ	upsilon	11
+φ	phi	11
+χ	chi	11
+ψ	psi	11
+ω	omega	11
+Ⅰ	g	11
+Ⅱ	fg	11
+Ⅲ	dg	11
+Ⅳ	lh	11
+Ⅴ	gg	11
+Ⅵ	yw	11
+Ⅶ	ag	11
+Ⅷ	wt	11
+Ⅸ	vt	11
+Ⅹ	fgh	11
+Ⅺ	fggg	11
+Ⅻ	fgfg	11
+←	da	11
+↑	h	11
+→	dk	11
+↓	gh	11
+∴	rnny	11
+∵	ldyt	11
+①	g	11
+②	fg	11
+③	dg	11
+④	lh	11
+⑤	gg	11
+⑥	yw	11
+⑦	ag	11
+⑧	wt	11
+⑨	vt	11
+⑩	fgh	11
+⑴	g	11
+⑵	fg	11
+⑶	dg	11
+⑷	lh	11
+⑸	gg	11
+⑹	yw	11
+⑺	ag	11
+⑻	wt	11
+⑼	vt	11
+⑽	fgh	11
+⑾	fggg	11
+⑿	fgfg	11
+⒀	fgdg	11
+⒁	fglh	11
+⒂	fggg	11
+⒃	fgyw	11
+⒄	fgag	11
+⒅	fgwt	11
+⒆	fgvt	11
+⒇	fgfg	11
+⒈	g	11
+⒉	fg	11
+⒊	dg	11
+⒋	lh	11
+⒌	gg	11
+⒍	yw	11
+⒎	ag	11
+⒏	wt	11
+⒐	vt	11
+⒑	fgh	11
+⒒	fggg	11
+⒓	fgfg	11
+⒔	fgdg	11
+⒕	fglh	11
+⒖	fggg	11
+⒗	fgyw	11
+⒘	fgag	11
+⒙	fgwt	11
+⒚	fgvt	11
+⒛	fgfg	11
+♀	hxw	11
+♂	dcw	11
+㈠	g	11
+㈡	fg	11
+㈢	dg	11
+㈣	lh	11
+㈤	gg	11
+㈥	yw	11
+㈦	ag	11
+㈧	wt	11
+㈨	vt	11
+㈩	fgh	11

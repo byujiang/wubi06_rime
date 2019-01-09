@@ -1,0 +1,29 @@
+# Rime extended dictionary
+# encoding: utf-8
+#
+# Location:
+# Linux: ~/.config/ibus/rime
+# MacOS: ~/Library/Rime
+# Windows: %APPDATA%\Rime
+#
+
+---
+name: wubi06.extended
+version: "2018.11.18"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  #### wubi06 is neccessary
+  - wubi06
+  #### the following are extended dicts
+  - wubi06.idiom
+  - wubi06.poetry
+  - wubi06.chat
+  - wubi06.life
+  - wubi06.symbols
+  - wubi06.science
+  - wubi06.place
+  - wubi06.computer
+  - wubi06.taiwan
+
+...
