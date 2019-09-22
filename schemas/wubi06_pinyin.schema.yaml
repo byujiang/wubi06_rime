@@ -7,11 +7,14 @@ schema:
   version: "0.3"
   author:
     - "發明人 王永民先生"
-    - "制作人 Amito"
+    - "制作人 Amito <byujiang@gmail.com>"
+
   description: |
     新世纪五笔＋拼音 Amito
+
   dependencies:
     - pinyin_simp
+    - emoji
 
 switches:
   - name: ascii_mode
