@@ -1,10 +1,33 @@
-# Rime schema settings
+# wubi06_pinyin.custom.yaml
 # encoding: utf-8
+# save it to:
+#   ~/.config/ibus/rime  (linux)
+#   ~/Library/Rime       (macos)
+#   %APPDATA%\Rime       (windows)
+
+# patch:
+#   key_binder:
+#     bindings:
+#       - {accept: Return, send: Escape, when: composing}
+#       - {accept: semicolon, send: 2, when: has_menu}
+#       - {accept: apostrophe, send: 3, when: has_menu}
+#     import_preset: default
+
+#   'punctuator/import_preset': symbols
+#   'recognizer/patterns/punct': "^/([a-z]+|[0-9])$"
+
+#   show_notifications_via_notification_center: false
+# 
+patch:
+  engine/translators:
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
 
 schema:
   schema_id: wubi06_pinyin
   name: "新世纪五笔·拼音"
-  version: "0.3"
+  version: "2020.04.08"
   author:
     - "發明人 王永民先生"
     - "制作人 Amito <byujiang@gmail.com>"
@@ -14,7 +37,6 @@ schema:
 
   dependencies:
     - pinyin_simp
-    - emoji
 
 switches:
   - name: ascii_mode

@@ -1,4 +1,4 @@
-# wubi06.custom.yaml
+# wubi06_pinyin.custom.yaml
 # save it to:
 #   ~/.config/ibus/rime  (linux)
 #   ~/Library/Rime       (macos)
@@ -34,22 +34,24 @@ patch:
 
   translator:
     dictionary: wubi06.extended
+    prism: wubi06_pinyin
     enable_charset_filter: true
     enable_sentence: true
     enable_encoder: true
     encode_commit_history: true
-    max_phrase_length: 4
+  #  max_phrase_length: 4
     enable_completion: true
     enable_user_dict: true
     enable_encoder: true
 
   punctuator/import_preset: symbols
-  recognizer/patterns/reverse_lookup: "`[a-z]*$"   #请删除$后的空格！
-  schema/dependencies:
+  recognizer/patterns/reverse_lookup: "`[a-z]*$"
+  dependencies:
+    - pinyin_simp
+
   abc_segmentor/extra_tags:
     - reverse_lookup
   reverse_lookup:
-    enable_completion: false
     dictionary: 
       - pinyin_simp
       - kaomoji

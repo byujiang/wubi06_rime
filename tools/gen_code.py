@@ -54,6 +54,7 @@ if __name__ == "__main__":
 	codes = []
 	if len(sys.argv)  <  4:
 		print("Usage:\n\t this_file single_file words_file output_file [freq_max [freq_min]]")
+		sys.exit(130)
 	char_file = sys.argv[1]
 	word_file = sys.argv[2]
 	code_file = sys.argv[3]

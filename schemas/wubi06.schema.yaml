@@ -12,7 +12,6 @@ schema:
     新世纪五笔 Amito
     敲 z 鍵進入拼音反查
   dependencies:
-    - emoji
     - pinyin_simp
 
 switches:
@@ -57,18 +56,20 @@ translator:
   enable_sentence: true
   enable_encoder: true
   encode_commit_history: true
-  max_phrase_length: 4
-  enable_completion: true
+#  max_phrase_length: 4
+#  enable_completion: true
   enable_user_dict: true
   disable_user_dict_for_patterns:
     - "^z.*$"
     - "^[a-y]{1,3}$"
 
 reverse_lookup:
-  dictionary: pinyin_simp
+  dictionary:
+    - pinyin_simp
+    - kaomoji
   prefix: z
   suffix: "'"
-  tips: "[拼音]"
+  tips: "[拼音|表情]"
   preedit_format:
     - "xform/([nl])v/$1ü/"
     - "xform/([nl])ue/$1üe/"
@@ -90,9 +91,30 @@ recognizer:
     punct: "^/([a-z]+|[0-9])$"
     reverse_lookup: "^z[a-z]*$"
 
+preset_color_schemes:
+  apathy:
+    author: "LIANG Hai"
+    back_color: 0xFFFFFF
+    border_height: 0
+    border_width: 0
+    candidate_format: "%c %@ "
+    comment_text_color: 0x999999
+    corner_radius: 5
+    font_face: "PingFangSC-Regular,H-SiuNiu,HanaMinA"
+    font_point: 16
+    hilited_candidate_back_color: 0xFFF0E4
+    hilited_candidate_text_color: 0xEE6E00
+    horizontal: true
+    inline_preedit: true
+    label_font_face: "PingFangSC-Light"
+    label_font_point: 11
+    name: "冷漠 / Apathy"
+    text_color: 0x424242
+
 show_notifications_via_notification_center: true
 
 style:
-  color_scheme: lost_temple
+  #color_scheme: lost_temple
+  color_scheme: apathy
 
 us_keyboard_layout: true

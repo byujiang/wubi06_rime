@@ -9,13 +9,13 @@
 
 ---
 name: wubi06.extended
-version: "2018.11.18"
-sort: by_weight
+version: "2020.04.07"
+#sort: by_weight
+sort: original
 use_preset_vocabulary: true
 import_tables:
   #### wubi06 is neccessary
   - wubi06
-  #### the following are extended dicts
   - wubi06.idiom
   - wubi06.poetry
   - wubi06.chat
@@ -25,5 +25,4 @@ import_tables:
   - wubi06.place
   - wubi06.computer
   - wubi06.taiwan
-
 ...
