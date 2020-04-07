@@ -16,8 +16,9 @@ use_preset_vocabulary: true
 import_tables:
   #### wubi06 is neccessary
   - wubi06
+  - wubi06.ms
   - wubi06.idiom
-  - wubi06.poetry
+  - wubi06.poem
   - wubi06.chat
   - wubi06.life
   - wubi06.symbols

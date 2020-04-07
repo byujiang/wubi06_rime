@@ -39796,6 +39796,7 @@ use_preset_vocabulary: true
 离位峰	ywmt	62
 文件尺寸	ywng	66
 变化性	ywnt	50
+文件数据库	ywol	95
 文件属性	ywnt	51
 充分性	ywnt	67
 变分导数	ywnv	19
@@ -40076,7 +40077,6 @@ use_preset_vocabulary: true
 诉讼代理	yywj	69
 设计分析器	yywk	28
 调试例程	yywk	38
-文文件数据库	yywl	95
 话语分析	yywr	1
 语义分析	yywr	7
 设计分析	yywr	8

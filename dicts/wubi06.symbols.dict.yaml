@@ -12,8 +12,8 @@
 #
 
 ---
-name: wubi06.scymbols
-version: "2018.11.19"
+name: wubi06.symbols
+version: "2020.04.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
