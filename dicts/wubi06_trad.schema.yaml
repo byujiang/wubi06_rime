@@ -15,7 +15,6 @@ schema:
 
   dependencies:
     - pinyin_simp
-    - emoji
 
 switches:
   - name: ascii_mode
