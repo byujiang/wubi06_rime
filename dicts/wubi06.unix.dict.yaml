@@ -1,0 +1,24 @@
+# Rime dictionary for wubi06
+# encoding: utf-8
+#
+# Dict: wubi06.unix
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: wubi06.unix
+version: "2020.04.08"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+sudo	sudo	111
+dnf	dnf	111
+ls	ls	11
+ssh	ssh	111

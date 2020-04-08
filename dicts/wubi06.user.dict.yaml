@@ -1,0 +1,31 @@
+# Rime dictionary for wubi06
+# encoding: utf-8
+#
+# Dict: wubi06.user
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: wubi06.user
+version: "2020.04.08"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+国家战略	lphl	11
+自主创新	tywu	11
+等会	tfwf	111
+等会儿	twqt	111
+还可以	dsny	11
+用作	ehwt	11
+容灾	pwpo	11
+日益增长	juft	11
+格点	sthk	111
+对撞机	crsw	233
+

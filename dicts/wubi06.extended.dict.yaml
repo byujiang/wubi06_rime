@@ -26,4 +26,6 @@ import_tables:
   - wubi06.place
   - wubi06.computer
   - wubi06.taiwan
+  - wubi06.user
+  - wubi06.unix
 ...
