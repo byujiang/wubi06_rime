@@ -27,7 +27,7 @@ patch:
     - uniquifier
 
   fixed:
-    __include: translator
+    __include: wubi06.schema:/translator
     enable_user_dict: false
     enable_completion: false
     initial_quality: 10000
@@ -38,22 +38,23 @@ patch:
     enable_sentence: true
     enable_encoder: true
     encode_commit_history: true
-#    max_phrase_length: 4
-    enable_completion: true
+    #max_phrase_length: 4
+    #enable_completion: true
     enable_user_dict: true
     enable_encoder: true
 
   punctuator/import_preset: symbols
-  recognizer/patterns/reverse_lookup: "`[a-z]*$"   #请删除$后的空格！
+  recognizer/patterns/reverse_lookup: "`[a-z]*$"
   schema/dependencies:
   abc_segmentor/extra_tags:
     - reverse_lookup
   reverse_lookup:
-    enable_completion: false
-    dictionary: 
+    dictionary:
       - pinyin_simp
       - kaomoji
       - emoji_suggestion
+
+    enable_completion: false
     prefix: "`"
     suffix: "'"
     tips: "〔拼音|表情〕"

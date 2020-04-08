@@ -48,7 +48,7 @@ engine:
 
 speller:
   delimiter: " ;'"
-  max_code_length: 4
+  #  max_code_length: 4
 
 translator:
   dictionary: wubi06
@@ -67,6 +67,8 @@ reverse_lookup:
   dictionary:
     - pinyin_simp
     - kaomoji
+    - emoji_suggestion
+
   prefix: z
   suffix: "'"
   tips: "[拼音|表情]"

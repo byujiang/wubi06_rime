@@ -27,7 +27,7 @@ patch:
     - uniquifier
 
   fixed:
-    __include: translator
+    __include: wubi06_pinyin.schema:/translator
     enable_user_dict: false
     enable_completion: false
     initial_quality: 10000
