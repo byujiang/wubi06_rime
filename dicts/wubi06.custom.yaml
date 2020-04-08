@@ -38,7 +38,7 @@ patch:
     enable_sentence: true
     enable_encoder: true
     encode_commit_history: true
-    max_phrase_length: 4
+#    max_phrase_length: 4
     enable_completion: true
     enable_user_dict: true
     enable_encoder: true
