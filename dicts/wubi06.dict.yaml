@@ -3898,7 +3898,7 @@ encoder:
 彬	sse	900
 禁	ssf	900
 栖	ssg	900
-朾	ssh	900
+朾	ssh	1
 柯	ssk	900
 楚	ssn	900
 焚	sso	900
@@ -32913,7 +32913,6 @@ encoder:
 攻打	atrs	6
 营私舞弊	atru	117
 斯特拉	atru	890
-斯特拉	atru	983
 攻势	atrv	638
 医护	atry	620
 东躲西藏	atsa	626
@@ -46806,7 +46805,6 @@ encoder:
 两者	gmft	822
 瑞雪	gmfv	695
 现形	gmga	317
-正则表达式	gmga	327
 正则表达式	gmga	368
 遭到	gmgc	625
 珊瑚	gmgd	870
@@ -55718,10 +55716,7 @@ encoder:
 踉跄	khkh	31
 踯躅	khkh	35
 踊跃	khkh	43
-跳跃	khkh	450
-踊跃	khkh	463
 践踏	khkh	472
-跟踪	khkh	594
 跳跃	khkh	665
 跟踪	khkh	682
 蹊跷	khkh	73
@@ -68127,14 +68122,11 @@ encoder:
 猖狂	qtqt	438
 猩猩	qtqt	473
 狩猎	qtqt	498
-狡猾	qtqt	504
 猕猴	qtqt	566
 狡猾	qtqt	731
 猪猡	qtqt	912
 狰狞	qtqt	933
 狐狸	qtqt	952
-猖獗	qtqt	961
-狼狈	qtqt	974
 猖獗	qtqt	983
 多愁多病	qtqu	804
 猴急	qtqv	23
@@ -70132,7 +70124,6 @@ encoder:
 年代	rhwa	95
 排他	rhwb	266
 年仅	rhwc	333
-年会	rhwf	107
 年会	rhwf	747
 排便	rhwg	542
 扑倒	rhwg	833
