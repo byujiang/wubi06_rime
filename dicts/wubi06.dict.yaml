@@ -1202,6 +1202,7 @@ encoder:
 盔	dol	900
 磷	doq	900
 矿	dot	900
+·	dot	111
 灰	dou	900
 达	dpi	900
 碗	dpq	900
@@ -15942,8 +15943,9 @@ encoder:
 疊	lllg	411
 纍	llli	828
 轟	lllj	828
-轠	llll	751
+轠	llll	151
 田	llll	512
+〇	llll	111
 罍	lllm	416
 氎	llln	836
 䴎	lllo	342
@@ -28936,7 +28938,6 @@ encoder:
 餧	wytv	584
 倣	wyty	955
 餓	wyty	386
-飠	wyu	388
 伪	wyty	519
 餅	wyua	223
 㒀	wyud	216

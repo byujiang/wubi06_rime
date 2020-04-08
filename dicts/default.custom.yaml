@@ -1,9 +1,9 @@
 customization:
   distribution_code_name: Weasel
-  distribution_version: 0.13.1
+  distribution_version: 0.14.1
   generator: "Rime::SwitcherSettings"
-  modified_time: "Mon Nov 19 18:16:31 2018"
-  rime_version: 1.3.0
+  Modified:  2020-04-08 PM 19:35:42
+  rime_version: 1.4.0
 patch:
   ascii_composer:
     switch_key: {Caps_Lock: clear, Control_L: noop, Control_R: noop, Eisu_toggle: clear, Shift_L: commit_code, Shift_R: commit_code}
