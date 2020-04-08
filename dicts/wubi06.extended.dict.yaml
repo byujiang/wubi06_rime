@@ -28,4 +28,5 @@ import_tables:
   - wubi06.taiwan
   - wubi06.user
   - wubi06.unix
+  - wubi06.kaomoji
 ...

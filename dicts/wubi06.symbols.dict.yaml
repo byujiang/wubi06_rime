@@ -18,6 +18,15 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
 
+°	oa	10
+♂	le	10
+♀	v	10
+♥	ny	10
+★	jtg	10
+✩	jtg	10
+♪	ujtt	10
+♫	ujtt	10
+
 ×	tux	11
 à	aad	11
 á	aab	11
@@ -98,6 +107,7 @@ use_preset_vocabulary: true
 χ	chi	21
 ψ	psi	21
 ω	omega	21
+∞	infty	10
 Ⅰ	g	11
 Ⅱ	fg	11
 Ⅲ	dg	11
@@ -114,6 +124,13 @@ use_preset_vocabulary: true
 ↑	h	11
 →	dk	11
 ↓	gh	11
+↗	dkhg	10
+↘	dkgh	10
+↖	dahg	10
+↙	dagh	10
+√	qc	10
+×	cha	10
+囗	llll	10
 ∴	rnny	11
 ∵	ldyt	11
 ①	g	11
@@ -178,3 +195,19 @@ use_preset_vocabulary: true
 ㈧	wt	11
 ㈨	vt	11
 ㈩	fgh	11
+
+∵	because	10
+∴	therefore	10
+~	sim	10
+∈	in	10
+⊂	subset	10
+⊆	subseteq	10
+∑	sum	10
+∏	prod	10
+∫	int	10
+∮	oint	10
+∀	forall	10
+∃	exists	10
+∇	nabla	10
+∆	triangle	10
+≐	doteq	10
