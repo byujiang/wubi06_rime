@@ -38,7 +38,7 @@ def gen_codes():
 			if len(w) is 3:
 				code = w + "\t" + chars[w[0]][0]+chars[w[1]][0]+chars[w[2]][0:2] + "\t" + str(freq)
 			if len(w) >= 4:
-				code = w + "\t" + chars[w[0]][0]+chars[w[1]][0]+chars[w[2]][0]+chars[w[-1]][1] + "\t" + str(freq)
+				code = w + "\t" + chars[w[0]][0]+chars[w[1]][0]+chars[w[2]][0]+chars[w[-1]][0] + "\t" + str(freq)
 			codes.append(code)
 		except:
 			print("Error word: {}".format(w))
