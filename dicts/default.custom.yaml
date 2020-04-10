@@ -16,5 +16,15 @@ patch:
     - schema: wubi06_pinyin
     - schema: wubi06_trad
   app_options:
-    gnome-terminal-server:
+    gnome-terminal:
+      ascii_mode: true
+    WindowsTerminal.exe:
+      ascii_mode: true
+    wsl.exe:
+      ascii_mode: true
+    conhost.exe:
+      ascii_mode: true
+    wslhost.exe:
+      ascii_mode: true
+    OpenConsole.exe:
       ascii_mode: true
