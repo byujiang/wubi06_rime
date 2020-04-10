@@ -15,3 +15,6 @@ patch:
     - schema: wubi06
     - schema: wubi06_pinyin
     - schema: wubi06_trad
+  app_options:
+    gnome-terminal-server:
+      ascii_mode: true
