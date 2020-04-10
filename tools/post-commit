@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+echo "pushing to code.ihep.ac.cn"
+git push origin master
+echo "pushing to github"
+git push github master
+
