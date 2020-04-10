@@ -10,8 +10,8 @@
 ---
 name: wubi06.extended
 version: "2020.04.07"
-#sort: by_weight
-sort: original
+sort: by_weight
+#sort: original
 use_preset_vocabulary: true
 import_tables:
   #### wubi06 is neccessary

@@ -43,17 +43,11 @@ patch:
     enable_user_dict: true
     enable_encoder: true
 
-  punctuator/import_preset: symbols
-  recognizer/patterns/reverse_lookup: "`[a-z]*$"
-  schema/dependencies:
-  abc_segmentor/extra_tags:
-    - reverse_lookup
+  abc_segmentor:
+    extra_tags:
+      - reverse_lookup
   reverse_lookup:
-    dictionary:
-      - pinyin_simp
-      - kaomoji
-      - emoji_suggestion
-
+    dictionary: pinyin_simp
     enable_completion: false
     prefix: "`"
     suffix: "'"
@@ -64,6 +58,15 @@ patch:
     - "xform/([nl])ue/$1üe/"
     - "xform/([jqxy])v/$1u/"
 
+  punctuator:
+    import_preset: symbols
+
+  recognizer:
+    import_preset: default
+    patterns:
+      reverse_lookup: "`[a-z]*$"
+      punct: "^/[0-9a-z]*$"
+        #      myemoji: "^"
   us_keyboard_layout: true
 
 #### emoji_suggestion
