@@ -1,9 +1,9 @@
 customization:
   distribution_code_name: Weasel
-  distribution_version: 0.14.1
-  generator: "Rime::SwitcherSettings"
-  Modified:  2020-04-08 PM 19:35:42
-  rime_version: 1.4.0
+  distribution_version: 0.12.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Jan 13 23:54:05 2019"
+  rime_version: 1.3.2
 patch:
   ascii_composer:
     switch_key: {Caps_Lock: clear, Control_L: noop, Control_R: noop, Eisu_toggle: clear, Shift_L: commit_code, Shift_R: commit_code}
@@ -11,6 +11,11 @@ patch:
     page_size: 9
   recognizer:
     patterns: {email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$", uppercase: "[A-Z][-_+.'0-9A-Za-z]*$", url: "^(www[.]|https?:|ftp[.:]|file:|mail[.]).*$|^[a-z]+[.].+$"}
+  show_notifications_via_notification_center: true
+  "style/color_scheme": lost_temple
+  "style/horizontal": true
+  "style/inline_preedit": true
+  us_keyboard_layout: true
   schema_list:
     - schema: wubi06
     - schema: wubi06_pinyin
@@ -27,4 +32,6 @@ patch:
     wslhost.exe:
       ascii_mode: true
     OpenConsole.exe:
+      ascii_mode: true
+    wle.exe:
       ascii_mode: true

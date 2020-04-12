@@ -18,8 +18,10 @@ sort: by_weight
 use_preset_vocabulary: true
 ...
 
-ls	ls	1111
-cd	cd	1111
-ssh	ssh	1111111
-dnf	dnf	1111111
-sudo	sudo	1111111
+ls	ls	11111
+cd	cd	11111
+ssh	ssh	111111
+dnf	dnf	111111
+sudo	sudo	111111
+exit	exit	11111
+clear	clear	11111
