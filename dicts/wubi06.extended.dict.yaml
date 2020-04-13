@@ -17,15 +17,15 @@ import_tables:
   #### wubi06 is neccessary
   - wubi06
   - wubi06.ms
-  - wubi06.idiom
-  - wubi06.poem
   - wubi06.chat
   - wubi06.life
-  - wubi06.symbols
-  - wubi06.science
+  - wubi06.poem
+  - wubi06.user
+  - wubi06.idiom
   - wubi06.place
   - wubi06.taiwan
-  - wubi06.user
-  - wubi06.unix
+  - wubi06.english
   - wubi06.kaomoji
+  - wubi06.science
+  - wubi06.symbols
 ...

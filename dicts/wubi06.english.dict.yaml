@@ -1,0 +1,57 @@
+# Rime dictionary for wubi06
+# encoding: utf-8
+#
+# Dict: wubi06.english
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: wubi06.english
+version: "2020.04.13"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+#### English
+mini	mini	1111
+
+#### brand
+Apple	apple	1111
+iPhone	ipho	1111
+macOS	macos	1111
+Macbook Pro	mbp	1111
+Macbook Air	mba	1111
+iOS	ios	1111
+iPad	ipad	1111
+iPod	ipod	1111
+Windows	windows	1111
+
+## Unix
+ls	ls	1111
+cd	cd	1111
+awk	awk	1111
+dnf	dnf	1111
+eos	eos	1111
+git	git	1111
+ssh	ssh	1111
+vim	vim	1111
+yum	yum	1111
+
+ceph	ceph	1111
+exit	exit	1111
+find	find	1111
+grep	grep	1111
+sudo	sudo	1111
+wget	wget	1111
+
+clear	clear	1111
+
+docker	docker	1111
+podman	podman	1111
+update	update	1111
