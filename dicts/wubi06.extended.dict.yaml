@@ -28,4 +28,6 @@ import_tables:
   - wubi06.kaomoji
   - wubi06.science
   - wubi06.symbols
+  - wubi06.music
+  - wubi06.movie
 ...
