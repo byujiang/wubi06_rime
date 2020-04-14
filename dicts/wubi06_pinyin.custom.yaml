@@ -70,7 +70,6 @@ patch:
     patterns:
       reverse_lookup: "`[a-z]*$"
       punct: "^/[0-9a-z]*$"
-        #      myemoji: "^"
 
   us_keyboard_layout: true
 
