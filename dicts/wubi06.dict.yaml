@@ -133,7 +133,8 @@ encoder:
 及	by	10000
 戏	ca	10000
 邓	cb	10000
-又	cc	10000
+又	cc	20000
+双	cc	10000
 参	cd	10000
 能	ce	10000
 对	cf	10000
@@ -12246,7 +12247,8 @@ encoder:
 骁悍	cgnj	838
 验尸	cgnn	133
 骗局	cgnn	545
-马屁	cgnx	85
+马屁	cgnx	255
+𫘝	cgnw	8
 驱尽	cgny	81
 马粪	cgoa	707
 驼鹿	cgon	182
@@ -40996,7 +40998,8 @@ encoder:
 吹弹	kqxu	709
 鸣	kqyg	467
 吊儿郎当	kqyi	613
-嚠	kqyj	899
+嚠	kqyj	39
+𠺕	kqyl	49
 鸣放	kqyt	430
 鸣谢	kqyt	690
 中外文	kqyy	380
@@ -51434,8 +51437,9 @@ encoder:
 烂漫	ouij	493
 烂泥	ouin	220
 料酒	ouis	45
-㢓	oujf	296
-燑	oujf	394
+㢓	oujf	46
+燑	oujf	44
+𤍤	oujf	54
 燱	oujn	855
 糡	oujq	71
 熾	oujy	739
