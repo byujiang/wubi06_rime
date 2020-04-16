@@ -63,7 +63,7 @@ patch:
     - "xform/([jqxy])v/$1u/"
 
   punctuator:
-    import_preset: symbols
+    import_preset: wubi06.symbols
 
   recognizer:
     import_preset: default
