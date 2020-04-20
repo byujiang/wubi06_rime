@@ -22,7 +22,6 @@ use_preset_vocabulary: true
 莉莉斯	aaad	86
 草药花坛	aaaf	47
 欧莱雅男士	aaaf	74
-欧莱雅青春密码肌底液	aaai	88
 蒋勤勤	aaak	21
 苣苣莲	aaal	80
 蒋黄莺	aaap	43
@@ -33,7 +32,6 @@ use_preset_vocabulary: true
 艾芊芊	aaat	66
 切切切	aaav	24
 萱草花	aaaw	6
-劳工及材料成本指	aabr	44
 莫邪夺魂	aadf	25
 莲花石公园	aadl	92
 工薪成本	aads	64
@@ -140,7 +138,6 @@ use_preset_vocabulary: true
 董子初	abpu	95
 蒸鱼	abqg	54
 花了多少钱	abqq	2
-期限错配组合	abqw	24
 萨总	abuk	95
 燕子门	abuy	5
 欧阳君沛	abvi	20
@@ -168,8 +165,6 @@ use_preset_vocabulary: true
 功能主义	acyy	7
 基期	adad	54
 七大工业国	adal	68
-巧克莉	adat	37
-七大工业国元首	adau	74
 攻克乃还	adbd	39
 暮春也	adbn	53
 英雄对战	adch	48
@@ -190,7 +185,6 @@ use_preset_vocabulary: true
 萧龙王	adgg	95
 期豆	adgk	66
 董存瑞烈士陵园	adgl	6
-或有事项准备金	adgq	79
 荒原珠	adgr	31
 莽虎	adha	14
 基础上	adhg	32
@@ -233,7 +227,6 @@ use_preset_vocabulary: true
 或有损失	adrr	15
 巨石投手	adrr	38
 恐龙杀手	adrr	46
-或有的权利	adrt	52
 期指	adrx	94
 共有权	adsc	97
 英雄枪战	adsh	83
@@ -258,7 +251,6 @@ use_preset_vocabulary: true
 共有产业	aduo	56
 基础资本	adus	85
 工厂闲置设备	adut	87
-基础产业和关键产	aduu	64
 或有资产	aduu	79
 斯凉	aduy	35
 惹她	advb	29
@@ -333,7 +325,6 @@ use_preset_vocabulary: true
 燕武成王	afdg	89
 萧塔不烟	afdo	86
 营运成本	afds	58
-斯坦达德和普尔公	afdw	17
 劳动力市场	afef	87
 营运服务帐目	afeh	97
 草坪加肥器	afek	34
@@ -341,10 +332,8 @@ use_preset_vocabulary: true
 劳动力缺乏	afet	74
 区域规划	affa	22
 甘露寺	afff	3
-莽吉塔站故城	afff	42
 甘露寺铁塔	afff	48
 落霞云归	affj	2
-东南域角角楼	affs	73
 营运者	afft	11
 芝士超人	affw	16
 营运协议	affy	99
@@ -488,7 +477,6 @@ use_preset_vocabulary: true
 萧平章	aguj	68
 期末差额	agup	2
 七次	aguq	18
-划一资本充足比率	aguy	1
 划一兑换率	aguy	60
 范瑞娟	agvk	9
 蔡丽娜	agvn	38
@@ -508,7 +496,6 @@ use_preset_vocabulary: true
 期末余额	agwp	2
 葬爷	agwr	49
 董事会会议记录	agwv	89
-敬烈公张重华	agww	10
 东亚人	agww	81
 蔡正华	agwx	91
 雅正集	agwy	26
@@ -543,7 +530,6 @@ use_preset_vocabulary: true
 基督山伯爵	ahme	97
 蔡叔度	ahoa	58
 项目数据库	ahoo	24
-蔡叔度姬度	ahoo	67
 熙宗	ahpf	96
 菲鱼	ahqg	78
 七点钟	ahqk	50
@@ -6074,22 +6060,22 @@ use_preset_vocabulary: true
 不知道怎么回事	dtug	73
 尤长靖	dtug	96
 不知道是不是	dtuj	30
-不知道呀	dtuk	15
+不知道呀	dtuk	215
 不知道了吧	dtuk	17
-不知道哦	dtuk	21
+不知道哦	dtuk	221
 不知道哦啊	dtuk	26
-不知道啊	dtuk	47
-不知道干嘛	dtuk	47
+不知道啊	dtuk	147
+不知道干嘛	dtuk	127
 不知道在哪	dtuk	52
 不知道为啥	dtuk	65
 不知道呢	dtuk	80
 不利差异	dtun	15
-有利差异	dtun	91
-不知道什么	dtut	15
-不知道为什么	dtut	45
-不知道怎么	dtut	70
-不知道说什么	dtut	90
-不知道干什么	dtut	98
+有利差异	dtun	21
+不知道什么	dtut	215
+不知道为什么	dtut	245
+不知道怎么	dtut	270
+不知道说什么	dtut	190
+不知道干什么	dtut	198
 不知道什么时候	dtuw	32
 不知道怎么说	dtuy	34
 不知道是谁	dtuy	4
@@ -6126,7 +6112,7 @@ use_preset_vocabulary: true
 成长率	dtyx	27
 不尊敬	duaq	7
 厂前区	duar	93
-泰拳警告	duat	43
+泰拳警告	duat	13
 尤靖茹	duav	23
 百兽陷阱	dubb	91
 不冷了	dubn	77
@@ -6141,7 +6127,6 @@ use_preset_vocabulary: true
 破产成本	duds	37
 套装硬币	dudt	89
 破产受托人	duew	90
-三道壕西汉村落遗址	duff	52
 龙门寺	duff	57
 大道朝天	dufg	75
 碰过	dufp	65
@@ -6151,7 +6136,7 @@ use_preset_vocabulary: true
 破产者的财产	dufu	51
 破产者财产	dufu	95
 郁闷死我了	dugb	60
-郁闷死了	dugb	9
+郁闷死了	dugb	99
 有道理	dugj	37
 不着一字	dugp	28
 不兑现汇票	dugs	83
@@ -6166,14 +6151,7 @@ use_preset_vocabulary: true
 破产法律程序	duio	48
 破产法庭	duio	76
 破产法案	duip	10
-破产法第十一章重	duit	34
 龙门浩	duit	63
-破产法第七章清算	duit	72
-破产法第章清算	duit	75
-破产法第十一章	duiu	73
-破产法第章重组	duix	62
-破产清算责任会计	duiy	23
-破产法庭内的协调	duiy	64
 有问题	dujg	11
 成道日	dujj	52
 有问题吗	dujk	92
@@ -6251,12 +6229,10 @@ use_preset_vocabulary: true
 大部分时间	duwu	39
 有奖债券	duwu	44
 破产债权人	duww	60
-有部分拥有权的人	duww	66
 破产债务人	duww	66
 破产人	duww	74
 破产令	duwy	54
 破产人产业帐户	duwy	93
-有关缴存款项的通	duxc	63
 龙门绝境	duxf	13
 顾问费	duxj	24
 石头诚	duyd	47
@@ -43094,8 +43070,6 @@ use_preset_vocabulary: true
 就像你说的	ywwr	77
 交货价格	ywws	50
 方朵朵	ywws	58
-放债人注册处处长	ywwt	100
-放债人注册处	ywwt	32
 充公货物	ywwt	40
 就你们	ywwu	84
 让你们	ywwu	88
