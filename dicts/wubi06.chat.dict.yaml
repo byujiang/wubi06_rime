@@ -13,22 +13,20 @@
 
 ---
 name: wubi06.chat
-version: "2018.11.20"
+version: "2020.04.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
 
-蒋莉萨	aaab	80
-莉莉斯	aaad	86
-草药花坛	aaaf	47
+蒋莉萨	aaab	10
+莉莉斯	aaad	16
 欧莱雅男士	aaaf	74
 蒋勤勤	aaak	21
-苣苣莲	aaal	80
+苣苣莲	aaal	10
 蒋黄莺	aaap	43
-苏蓉蓉	aaap	68
+苏蓉蓉	aaap	28
 莉萝艾	aaar	44
 欧式期权	aaas	17
-莲花式柱	aaas	91
 艾芊芊	aaat	66
 切切切	aaav	24
 萱草花	aaaw	6
@@ -53,13 +51,11 @@ use_preset_vocabulary: true
 黄雅琼	aagy	36
 蔚蓝战争	aahq	75
 莲花池	aaib	53
-草东没有派对	aaic	61
 菠菜汁	aaif	21
 区划法规	aaif	87
 莱茵演习	aain	27
 茱萸湾	aaiy	60
 萨勒曼	aajl	12
-东莞啊	aakb	24
 萌萌哒	aakd	76
 芦苇叶	aakf	45
 工口	aakk	19
@@ -70,15 +66,14 @@ use_preset_vocabulary: true
 蔷薇园	aalf	95
 黄薏帆	aamh	47
 荡荡贝贝	aamm	13
-蒋巨峯	aamt	81
 散散心	aany	49
 艾艾精工	aaoa	29
 花落宫廷错流年	aapr	62
 葱花穹顶	aaps	5
 花落宫廷	aapt	53
 藤蔓之间	aapu	72
-工薪审计	aapy	93
-茉莉之恋	aapy	97
+工薪审计	aapy	23
+茉莉之恋	aapy	17
 茯茶镇	aaqf	81
 雅戈尔	aaqi	69
 艾斯兔	aaqk	83
@@ -87,15 +82,15 @@ use_preset_vocabulary: true
 芭蕾舞剧院	aarb	93
 莉莉白	aarr	47
 菩萨顶	aasd	29
-芃芃哥	aask	45
+芃芃哥	aask	25
 莫斯科行动	aatf	10
 芦芳生	aatg	44
-艾医生	aatg	84
+艾医生	aatg	24
 蓝牙适配器	aatk	75
 工薪税	aatu	8
 草莓牛奶	aatv	11
 工艺美术厂	aaud	25
-葱花券	aaud	70
+葱花券	aaud	20
 花草间	aauj	32
 式部	aauk	20
 工艺美术品店	aauo	52
@@ -140,9 +135,10 @@ use_preset_vocabulary: true
 花了多少钱	abqq	2
 萨总	abuk	95
 燕子门	abuy	5
-欧阳君沛	abvi	20
-欧阳妮妮	abvv	29
-欧阳娣娣	abvv	78
+欧阳君沛	abvi	10
+欧阳妮妮	abvv	19
+欧阳娣娣	abvv	18
+欧阳娜娜	abvv	48
 欧阳修祠	abwp	19
 欧阳询	abyq	24
 恐聚族	abyt	10
@@ -158,11 +154,11 @@ use_preset_vocabulary: true
 斯马林	acss	39
 甘又系	actx	70
 茎头	acud	75
-功能分析	acws	33
+功能分析	acws	83
 黄圣依	acwy	20
-茅亭	acyk	93
-节能设计	acyy	6
-功能主义	acyy	7
+茅亭	acyk	23
+节能设计	acyy	22
+功能主义	acyy	32
 基期	adad	54
 七大工业国	adal	68
 攻克乃还	adbd	39
@@ -182,6 +178,7 @@ use_preset_vocabulary: true
 巨龙腾飞	aden	58
 暮春者	adft	89
 或有事项	adga	23
+东太平街小区	adga	58
 萧龙王	adgg	95
 期豆	adgk	66
 董存瑞烈士陵园	adgl	6
@@ -190,6 +187,9 @@ use_preset_vocabulary: true
 基础上	adhg	32
 蓝龙瞎	adhp	34
 英雄战迹	adhy	89
+东厂小区	adia	60
+东三里屯小区	adja	12
+东三里小区	adja	76
 草原景观	adjc	76
 共达电声	adjf	33
 英雄归来	adjg	72
@@ -228,6 +228,7 @@ use_preset_vocabulary: true
 巨石投手	adrr	38
 恐龙杀手	adrr	46
 期指	adrx	94
+东大桥小区	adsa	29
 共有权	adsc	97
 英雄枪战	adsh	83
 期棉	adsr	59
@@ -335,6 +336,7 @@ use_preset_vocabulary: true
 甘露寺铁塔	afff	48
 落霞云归	affj	2
 营运者	afft	11
+东教场胡衕	afft	14
 芝士超人	affw	16
 营运协议	affy	99
 营运开支	afgf	55
@@ -398,6 +400,7 @@ use_preset_vocabulary: true
 燕武公	afwc	44
 燕懿公	afwc	66
 燕孝公	afwc	79
+苍朮会	afwf	14
 蔡武侯	afwn	32
 蔡戴侯	afwn	44
 区域供热	afwr	47
@@ -438,6 +441,7 @@ use_preset_vocabulary: true
 七班	aggy	79
 花斑虎	agha	54
 七点	aghk	84
+雅丽小区	agia	18
 蓝天法	agif	23
 某一水平	agig	79
 莱汀	agis	98
@@ -693,6 +697,7 @@ use_preset_vocabulary: true
 燕昭王姬平	ajgg	87
 苏曼殊	ajgq	81
 药电睡	ajht	17
+苹果小区	ajia	20
 苏星河	ajis	64
 黄旼泫	ajiy	11
 蓝游	ajiy	74
@@ -860,6 +865,7 @@ use_preset_vocabulary: true
 东周列国	amgl	67
 共同融资	amgu	59
 蔚山现代	amgw	6
+燕山小区医院	amib	45
 黄涛	amid	36
 黄兴	amig	26
 黄崖洞	amim	55
@@ -870,6 +876,8 @@ use_preset_vocabulary: true
 荒骷髅	amme	11
 苍岩山	ammm	60
 黄网	ammr	94
+英峯	ammt	67
+黄山峯	ammt	67
 共同财产	ammu	28
 共同帐户	ammy	25
 共同尺度报表	amng	85
@@ -1091,6 +1099,7 @@ use_preset_vocabulary: true
 其它流动资产	apiu	2
 其它流动负债	apiw	54
 慕容泓	apix	18
+雅宝里小区	apja	99
 蒙题	apjg	56
 慕容暐	apjn	22
 慕容忠	apkh	85
@@ -1223,6 +1232,8 @@ use_preset_vocabulary: true
 营销中心	aqkn	49
 菊川	aqkt	21
 蓝色轮回	aqll	48
+擎峯	aqmt	27
+黄铁峯	aqmt	68
 基金账户	aqmy	82
 黄金屋	aqng	21
 基金收入	aqnt	93
@@ -1376,6 +1387,7 @@ use_preset_vocabulary: true
 基本指数	asro	37
 范可欣	asrq	39
 基本按金	asrq	52
+花椒树小区	assa	16
 基本核算单位	assw	18
 艺术格调	assy	22
 黄榕生	astg	56
@@ -1566,6 +1578,8 @@ use_preset_vocabulary: true
 获奖证书	auyn	46
 节闵帝	auyu	96
 工资率	auyx	20
+蒙娜莉萨	avaa	35
+蒙娜莉萨瓷砖	avad	100
 萧赜	avah	91
 莫建成	avdn	43
 萧遥	aver	17
@@ -1577,7 +1591,13 @@ use_preset_vocabulary: true
 医妃天下	avgg	42
 萧如瑟	avgg	71
 萧琮	avgp	43
+芳羣园四区	avla	16
+芳羣园一区	avla	17
+芳羣园二区	avla	53
+芳羣园三区	avla	74
+芳羣园小区	avla	76
 萌妹团	avlf	3
+芳羣园	avlf	43
 萧岿	avmj	35
 萧庄	avof	34
 萧察	avpw	60
@@ -1593,6 +1613,7 @@ use_preset_vocabulary: true
 燕召公姬奭	avwd	46
 基建贷款	avwf	10
 蔡灵侯	avwn	96
+芳羣公寓	avwp	28
 萧何	avws	60
 花好人间	avwu	25
 基建公债	avww	76
@@ -1627,6 +1648,7 @@ use_preset_vocabulary: true
 茶百	awdj	86
 巫奇	awds	49
 惹人爱	awep	94
+东风南里小区	awfa	54
 东风雪铁龙	awfd	19
 巩华城	awfd	27
 卧佛寺	awff	96
@@ -2720,6 +2742,7 @@ use_preset_vocabulary: true
 随机入射吸声系数	bsto	64
 陈楚翔	bsug	30
 孔板送风	bsuw	93
+阿西娜希腊餐厅	bsvd	51
 阿西娜	bsvn	98
 陈相公	bswc	42
 卫桓公	bswc	76
@@ -2728,6 +2751,7 @@ use_preset_vocabulary: true
 陈桓公妫鲍	bswq	35
 陈相公妫皋羊	bswu	52
 出票人	bsww	56
+联想计算机	bsys	83
 防御鞋子	btab	86
 防御英雄	btad	23
 阿利斯塔	btaf	61
@@ -3343,6 +3367,7 @@ use_preset_vocabulary: true
 马玉玉	cggy	48
 圣天湖	cgid	44
 骗水	cgii	5
+通天海蔘舫	cgit	44
 驭帅	cgjm	66
 骁电	cgjn	54
 骑甲	cglh	23
@@ -3483,6 +3508,7 @@ use_preset_vocabulary: true
 马蹄券	ckud	92
 台妹	ckvf	33
 骗别人	ckww	73
+双叶幼儿园	ckxl	90
 台中市	ckym	12
 邓恩熙	clah	94
 邓男子	clbb	59
@@ -3490,9 +3516,11 @@ use_preset_vocabulary: true
 又回到	clgc	11
 马思唯	clkw	78
 对国外业务按现行	clqt	29
+马连道胡衕	clut	93
 观月	cmee	54
 预购股票价格	cmes	46
 对帐表	cmge	87
+驼峯咖啡	cmkk	34
 参见账页	cmmd	42
 马岭岗	cmmm	64
 马岭岗镇	cmmq	36
@@ -3576,6 +3604,7 @@ use_preset_vocabulary: true
 对外贸易关系	cqqt	31
 熊负刍	cqqv	83
 鸡扣	cqrk	69
+马色拉之香	cqrt	16
 巴尔扎利	cqrt	61
 允西	cqsg	82
 骚猪格格	cqss	26
@@ -3634,6 +3663,7 @@ use_preset_vocabulary: true
 鸡年纳福	crxp	27
 预托证	cryg	26
 通气主管	cryt	6
+劲松东小区	csaa	22
 观梦台	csck	84
 马桥古文化遗址	csdf	50
 骑楼城	csfd	35
@@ -3924,6 +3954,7 @@ use_preset_vocabulary: true
 套期保值	daww	2
 大莲华	dawx	78
 套期交易	dayj	73
+太阳花小区	dbaa	15
 克孜勒苏	dbaa	2
 顾基	dbad	6
 有限期的押记	dbay	86
@@ -3962,6 +3993,7 @@ use_preset_vocabulary: true
 太阳辐射吸收系数	dblo	66
 大孤山	dbmm	67
 友联财务有限公司	dbmn	55
+太阳宫小区	dbpa	30
 龙子祠泉	dbpr	98
 有限审计	dbpy	9
 克隆猴	dbqt	38
@@ -4065,6 +4097,8 @@ use_preset_vocabulary: true
 还在不在啊	dddk	8
 有感而发	dddn	45
 在不确定情况下制	dddr	97
+丰盛胡衕	dddt	34
+石碑胡衕	dddt	95
 灰灰不鸽	dddw	96
 不在服务区	ddea	55
 不太去	ddfc	15
@@ -4219,6 +4253,7 @@ use_preset_vocabulary: true
 不用来	dego	30
 不用上班啊	dehk	1
 不用上班吗	dehk	32
+百脑汇计算机市场	deif	51
 有水	deii	89
 有股淡淡	deii	94
 三架梁	deiv	33
@@ -4331,6 +4366,8 @@ use_preset_vocabulary: true
 奈恩	dfld	2
 夏吉国	dflg	24
 成吉思	dfln	1
+大云峯寺	dfmf	22
+大云峯寺路口	dfmk	31
 布雷迪	dfmp	5
 三十岁	dfmq	61
 存款账户	dfmy	24
@@ -4641,8 +4678,8 @@ use_preset_vocabulary: true
 大天使长委	dgwt	77
 有一件	dgwt	79
 三几	dgwt	8
-有一段时间	dgwu	88
 三倍	dgwu	37
+有一段时间	dgwu	88
 石人	dgww	8
 有一集	dgwy	17
 石弘	dgxc	70
@@ -4865,6 +4902,7 @@ use_preset_vocabulary: true
 不谈	dhyo	12
 不茍言笑	dhyt	34
 有些话	dhyt	74
+石河营东小区	diaa	33
 夏洛菲	diah	31
 龙津药业	diao	83
 春江花月夜	diay	59
@@ -4979,6 +5017,7 @@ use_preset_vocabulary: true
 破泞之战	diph	40
 太湖之光	dipi	5
 太清宫	dipk	18
+胡涂宾馆	dipq	51
 郁浩然	diqd	23
 不少钱	diqf	61
 顾鸿铭	diqq	25
@@ -5254,6 +5293,7 @@ use_preset_vocabulary: true
 不思凡	dlwy	16
 破甲弓	dlxn	63
 不因为	dlyt	45
+大山子小区	dmba	12
 秦岭隧道	dmbu	13
 龙山石窟	dmdp	35
 在册股东	dmea	14
@@ -5284,6 +5324,7 @@ use_preset_vocabulary: true
 龙岭迷窟	dmop	49
 面灯	dmos	20
 大幅度折价债券	dmou	71
+奇峯宾馆	dmpq	64
 而被	dmpu	20
 面窗	dmpw	9
 压岁包	dmqn	50
@@ -5442,6 +5483,7 @@ use_preset_vocabulary: true
 龙之队	dpbw	21
 龙祥观	dpcm	56
 太祖石虎	dpdh	72
+夏家胡衕	dpdt	85
 龙之威仪	dpdw	5
 龙神契约	dpdx	91
 太祖爱新觉罗努尔哈赤	dpef	48
@@ -5682,11 +5724,13 @@ use_preset_vocabulary: true
 不打搅你了	drrb	76
 有抵押贷款	drrf	8
 有按揭的放款	drrf	83
+三迭泉	drri	65
 有抵押债权人委员	drrk	88
 龙抄手	drrt	14
 奇拉拉	drru	84
 有抵押债权人	drrw	35
 原按揭人	drrw	49
+大排檔	drsi	35
 有投票权的股票	drss	59
 尬舞机	drsw	27
 有投票权股份	drsw	50
@@ -5984,6 +6028,7 @@ use_preset_vocabulary: true
 碎片整理	dtgg	86
 三自带	dtgk	39
 胡和平	dtgu	42
+三条小区	dtia	46
 大和海外财务有限	dtib	4
 不符常规	dtif	93
 大航海之路	dtik	35
@@ -6016,6 +6061,7 @@ use_preset_vocabulary: true
 面积定额	dtpp	54
 成长守护	dtpr	95
 硬盘空间	dtpu	21
+胡衕写意	dtpu	60
 有答案	dtpv	49
 布告窗	dtpw	74
 大生银行有限公司	dtqn	33
@@ -6060,22 +6106,22 @@ use_preset_vocabulary: true
 不知道怎么回事	dtug	73
 尤长靖	dtug	96
 不知道是不是	dtuj	30
-不知道呀	dtuk	215
+不知道干嘛	dtuk	127
+不知道啊	dtuk	147
 不知道了吧	dtuk	17
+不知道呀	dtuk	215
 不知道哦	dtuk	221
 不知道哦啊	dtuk	26
-不知道啊	dtuk	147
-不知道干嘛	dtuk	127
 不知道在哪	dtuk	52
 不知道为啥	dtuk	65
 不知道呢	dtuk	80
 不利差异	dtun	15
 有利差异	dtun	21
+不知道说什么	dtut	190
+不知道干什么	dtut	198
 不知道什么	dtut	215
 不知道为什么	dtut	245
 不知道怎么	dtut	270
-不知道说什么	dtut	190
-不知道干什么	dtut	198
 不知道什么时候	dtuw	32
 不知道怎么说	dtuy	34
 不知道是谁	dtuy	4
@@ -6097,6 +6143,7 @@ use_preset_vocabulary: true
 秦穆公嬴任好	dtwv	80
 有条件要约	dtwx	18
 有条件售卖协议	dtwy	60
+胡衕比萨	dtxa	71
 不算细	dtxl	78
 古德维尔	dtxq	85
 有息结余	dtxw	8
@@ -6170,6 +6217,7 @@ use_preset_vocabulary: true
 龙首山	dumm	77
 大新财务有限公司	dumn	18
 有意购买的买家	dump	64
+大辛峯	dumt	42
 不关心	duny	81
 胡总书记	duny	99
 大闹宝莱坞	dupf	62
@@ -6636,6 +6684,7 @@ use_preset_vocabulary: true
 不计残值	dygw	6
 不为茍同	dyhm	31
 龚诗淇	dyia	88
+友谊小区	dyia	98
 有效流阻	dyib	77
 还说没有	dyid	30
 不高兴	dyig	77
@@ -6646,6 +6695,7 @@ use_preset_vocabulary: true
 咸亨酒店	dyio	89
 奇迹觉醒	dyis	60
 太洋	dyiu	43
+三义里小区	dyja	83
 不就是	dyjg	79
 夏夜星空海	dyji	66
 在交易所买卖的衍	dyjt	40
@@ -6895,6 +6945,7 @@ use_preset_vocabulary: true
 觅友购	edmq	62
 胶原蛋白肽	edne	93
 胶原蛋白	ednr	5
+胜古庄小区	edoa	81
 用不完	edpf	56
 月石链	edql	57
 朋友名义	edqy	12
@@ -7011,6 +7062,7 @@ use_preset_vocabulary: true
 用你	ehwq	68
 月水莲	eial	31
 肥水不流外人田	eidl	11
+力学胡衕	eidt	29
 加油加油加油	eiei	97
 采光塔	eifa	84
 采光均匀度	eifo	96
@@ -7619,6 +7671,7 @@ use_preset_vocabulary: true
 地陆	fbbg	82
 埃隆马斯克	fbcd	22
 露出马脚	fbce	20
+教子胡衕南口	fbdk	73
 无障碍设计	fbdy	3
 地月	fbee	58
 塔子城遗址	fbff	81
@@ -7640,6 +7693,7 @@ use_preset_vocabulary: true
 老子一直在说话	fbgy	97
 无限战争	fbhq	91
 夫子眼	fbhv	48
+朝阳小区学院	fbib	60
 埃及法老	fbif	72
 无限流量卡	fbih	86
 无限法则	fbim	90
@@ -7665,6 +7719,7 @@ use_preset_vocabulary: true
 城子山山城遗址	fbmf	94
 直聘网	fbmr	23
 干陵怪圈	fbnl	89
+朝阳庵小区	fboa	18
 袁承业	fbog	14
 无限宝石	fbpd	37
 地冥	fbpj	11
@@ -7770,6 +7825,7 @@ use_preset_vocabulary: true
 南泰熙	fdah	58
 城东	fdai	60
 彭三鞭	fdak	28
+干厚苑	fdaq	17
 超威蓝猫	fdaq	46
 地面隆起	fdbf	74
 考不出	fdbm	97
@@ -7939,6 +7995,7 @@ use_preset_vocabulary: true
 无力偿还债务声明	fewj	24
 赤脚仙	fewm	49
 无力偿债公司	fewn	42
+干鹏公司	fewn	60
 未用余额	fewp	72
 无力偿付	feww	17
 无力偿债	feww	76
@@ -7963,6 +8020,7 @@ use_preset_vocabulary: true
 二元观	ffcm	52
 场地通达度	ffco	12
 超喜欢	ffcq	42
+干元大厦	ffdd	66
 城墙磖子山城遗址	ffdf	87
 赵孝成王	ffdg	61
 土地成本因素	ffdg	91
@@ -8017,6 +8075,7 @@ use_preset_vocabulary: true
 进士题名碑	ffjd	9
 垃圾啊	ffkb	77
 无规噪声	ffkf	36
+干元串坊	ffkf	39
 款号	ffkg	97
 元培中学	ffki	78
 运动员席	ffko	47
@@ -8065,6 +8124,7 @@ use_preset_vocabulary: true
 赵云皇家上将	ffru	60
 垃圾桶	ffsc	18
 塔坦杯	ffsd	42
+吉士林西餐厅	ffsd	61
 真堆村	ffsf	14
 土壤酸度探测器	ffsk	44
 墙板	ffsr	61
@@ -8168,6 +8228,7 @@ use_preset_vocabulary: true
 越来越好了	fgfb	15
 越来越多了	fgfb	47
 越来越少了	fgfb	83
+干翅	fgfc	34
 霸王朝山城	fgff	28
 走来走去	fgff	60
 起来起来	fgfg	51
@@ -8203,6 +8264,7 @@ use_preset_vocabulary: true
 十点	fghk	48
 十一点	fghk	85
 霸王虞姬	fghv	26
+干瑞鸿	fgia	34
 元素法	fgif	98
 地形测量	fgij	25
 十渡	fgio	94
@@ -8259,6 +8321,7 @@ use_preset_vocabulary: true
 雨狸	fgqt	42
 越王勾践剑	fgqw	53
 二岛	fgqy	26
+十五所小区	fgra	63
 十凶	fgrb	24
 需求拉动通货膨胀	fgre	67
 需求拉动的通货膨	fgre	81
@@ -8554,6 +8617,7 @@ use_preset_vocabulary: true
 老婆我爱你	fitw	94
 雨水立管	fiut	62
 辻洼凛音	fiuu	11
+干清门	fiuy	71
 卖淫女	fivv	48
 未清偿债项	fiwa	10
 无法追讨的税款	fiwf	41
@@ -8633,6 +8697,8 @@ use_preset_vocabulary: true
 赶时间吗	fjuk	22
 井道	fjut	60
 教师资格证	fjuy	78
+博览羣书	fjvn	78
+十里堡北里小区	fjwa	34
 元旦佳节	fjwa	95
 进伏	fjwd	41
 赵明剑	fjwg	75
@@ -8803,12 +8869,15 @@ use_preset_vocabulary: true
 云冈石窟	fmdp	67
 云山胜地	fmef	83
 云岩寺塔	fmff	1
+云峯寺	fmff	49
 南山寺	fmff	76
+云峯寺村	fmfs	80
 云岩寺二山门	fmfu	93
 远山雪	fmfv	38
 云冈露天大佛	fmfw	98
 过账索引	fmfx	49
 献坟	fmfy	18
+云峯画苑	fmga	30
 云冈五华洞	fmgi	25
 武则天武曌	fmgj	94
 武则天东方不败	fmgm	37
@@ -8820,14 +8889,19 @@ use_preset_vocabulary: true
 截账日期	fmja	63
 云冈昙曜五窟	fmjp	99
 起内哄	fmka	67
+雪峯园	fmlf	62
 未赎回物品	fmlk	85
 雪山圆盾	fmlr	100
+云峯山	fmmm	99
+云峯山庄	fmmo	83
 索赔财产	fmmu	3
 献殿	fmna	66
 场内买卖盘	fmnt	45
 南庚	fmov	49
 献宗	fmpf	73
 未央宫	fmpk	78
+赤峯宾馆	fmpq	10
+云峯宾馆	fmpq	60
 吉峰农机	fmps	52
 南山锄	fmqe	29
 南钧	fmqq	91
@@ -8847,6 +8921,7 @@ use_preset_vocabulary: true
 坏帐储备	fmwt	25
 壹峰信	fmwy	55
 南峪乡	fmxt	65
+雪峯高山茶	fmya	10
 封山育林区	fmya	50
 场内交易	fmyj	23
 场内交易系统	fmyx	44
@@ -8983,6 +9058,7 @@ use_preset_vocabulary: true
 未完成会计事项	fpda	84
 赵家大院	fpdb	42
 未完成的承担额	fpdp	88
+武定胡衕	fpdt	48
 裁定破产	fpdu	54
 裁定破产人	fpdw	24
 未完成的合约	fpdx	96
@@ -9147,7 +9223,9 @@ use_preset_vocabulary: true
 无吖	fqku	53
 吉猗园	fqlf	38
 地铁车站	fqlu	37
+老象峯景区	fqma	72
 磬锤峰	fqmt	13
+老象峯	fqmt	16
 老鲜肉	fqmw	18
 元嵩	fqmy	35
 地铁惊魂	fqnf	21
@@ -9241,6 +9319,7 @@ use_preset_vocabulary: true
 十年一晌	frgj	94
 丧失理智	frgt	34
 真的非常怪呀	frhk	37
+老年小区	fria	64
 真的没有	frid	68
 直接注销法	frii	75
 真的没有啊	frik	72
@@ -9401,6 +9480,7 @@ use_preset_vocabulary: true
 无极之心	fspn	52
 真材实料	fspo	61
 南极之恋	fspy	3
+老酰儿	fsqt	50
 韩林儿	fsqt	63
 干柿鬼鲛	fsrq	19
 老歌手	fsrt	80
@@ -9483,6 +9563,7 @@ use_preset_vocabulary: true
 考号	ftkg	29
 才贵	ftkh	54
 老呢	ftkn	62
+动物园小区	ftla	60
 嘉德罗斯	ftla	74
 云篆山	ftmm	23
 老乐山	ftmm	81
@@ -9597,6 +9678,7 @@ use_preset_vocabulary: true
 未兑现股息	fugt	27
 老总瞪着眼睛	fuhh	90
 赧颜茍活	fuhi	70
+城北小区	fuia	93
 鼋头渚	fuif	52
 韩冰洋	fuiu	66
 武装少女	fuiv	17
@@ -9921,6 +10003,7 @@ use_preset_vocabulary: true
 超级大山炮	fxdo	41
 超级垄断	fxdo	47
 干纲不振	fxdr	64
+戴维厨房	fxdy	32
 二线股票	fxes	46
 未缴股款的股份	fxew	55
 违纪违法	fxfi	72
@@ -9959,6 +10042,7 @@ use_preset_vocabulary: true
 直线的	fxrq	100
 超级的	fxrq	17
 二维制图系统	fxrx	29
+戴维杜夫	fxsf	91
 地弹簧	fxta	95
 增强移动鞋子	fxtb	30
 违约条款	fxtf	23
@@ -9973,6 +10057,7 @@ use_preset_vocabulary: true
 违约风险	fxwb	66
 超级公司	fxwn	46
 超级企鹅	fxwt	8
+南张华小区服务	fxwt	85
 考绍伊	fxwv	36
 声强级	fxxb	18
 真纠结	fxxf	73
@@ -10192,6 +10277,7 @@ use_preset_vocabulary: true
 表藤太	gady	34
 天花彩画	gaeg	11
 末期股息	gaet	36
+枣营南里小区	gafa	53
 型动	gafc	16
 敖东城	gafd	7
 玛雅考古	gafd	74
@@ -11186,6 +11272,7 @@ use_preset_vocabulary: true
 蚕沙口	gikk	63
 王海川	gikt	1
 王光国	gilg	92
+珠江峯景	gimj	13
 王泽山	gimm	65
 天源迪科	gimt	12
 王海民	gina	97
@@ -11481,6 +11568,7 @@ use_preset_vocabulary: true
 再写	gmpg	71
 再穷	gmpw	98
 曹礼	gmpy	45
+五峯名茶	gmqa	12
 璀钻	gmqh	55
 曹锟	gmqj	32
 曹奂	gmqm	81
@@ -11496,6 +11584,7 @@ use_preset_vocabulary: true
 瑞树	gmsc	39
 两本	gmsg	83
 两楼	gmso	98
+玉峯桥	gmst	59
 两升	gmta	4
 两盘	gmte	68
 两千	gmtf	92
@@ -11710,6 +11799,7 @@ use_preset_vocabulary: true
 五军对决	gpcu	63
 救灾通道	gpcu	73
 一字不茍	gpdh	38
+曹家胡衕	gpdt	81
 平安朝阳	gpfb	93
 玩客云	gpfc	78
 环之城	gpfd	34
@@ -12042,6 +12132,7 @@ use_preset_vocabulary: true
 死木港	gsia	99
 逐梦演艺圈	gsil	32
 互相津贴	gsim	57
+琼森堂	gsip	58
 开标日期	gsja	4
 互相影响的因素	gsjg	49
 理想中	gskh	69
@@ -12220,6 +12311,7 @@ use_preset_vocabulary: true
 晋穆侯姬费王	gtwg	92
 晋穆侯	gtwn	63
 麦假	gtwn	89
+融科信息中心	gtwn	93
 王牌保镖	gtwq	35
 一般储备金	gtwq	37
 一般分摊	gtwr	10
@@ -12311,6 +12403,7 @@ use_preset_vocabulary: true
 平减物价指数	guto	10
 更新很多	gutq	40
 融资租赁	gutw	64
+惠新北里小区	guua	77
 一章章	guuj	12
 理疗部	guuk	44
 环状道路	guuk	90
@@ -12338,6 +12431,7 @@ use_preset_vocabulary: true
 正部级	guxb	11
 更新费用	guxe	89
 环状绿型	guxg	98
+天童幼儿园	guxl	29
 下部结构	guxs	37
 整剪绿篱	guxt	28
 融资组合的风险和	guxt	71
@@ -12354,6 +12448,7 @@ use_preset_vocabulary: true
 严君泽	gvic	20
 王旭晓	gvja	8
 五女山山城	gvmf	48
+珺峯	gvmt	39
 开始以至	gvng	29
 开始炒股	gvoe	54
 天如镜	gvqu	99
@@ -12853,6 +12948,7 @@ use_preset_vocabulary: true
 非土地实产	hffu	77
 非土地遗赠继承人	hffw	28
 非规整园林	hfgs	74
+紫南小区	hfia	21
 虚声源	hfid	10
 虚无法杖	hfis	47
 旧城改建	hfnv	91
@@ -13061,6 +13157,7 @@ use_preset_vocabulary: true
 非固有价值	hldw	7
 战国志	hlfn	47
 上轻下重法	hlgi	39
+上园小区	hlia	94
 卢恩光	hlig	23
 战略性收购	hlnm	60
 非累积优先股	hlte	55
@@ -13259,6 +13356,7 @@ use_preset_vocabulary: true
 虚灵城判	hvfu	42
 虎九万	hvgq	64
 眼少	hvit	45
+鼎好电子商场	hvjf	37
 占旭刚	hvmr	14
 眼蜜	hvpn	68
 眼灸	hvqy	46
@@ -13389,13 +13487,19 @@ use_preset_vocabulary: true
 上方谷	hyww	7
 上市费	hyxj	56
 上市证券	hyyu	79
+小区医院	iaab	13
 江茂	iaad	64
+小区菜市场	iaaf	45
 小莹莹	iaap	47
 小薇薇	iaat	29
+小区警务工作站	iaau	16
+小区医疗部	iaau	50
 小蘑菇	iaav	62
 波切蒂诺	iaay	63
 清东陵	iabf	35
+小区卫生站	iabu	40
 清菜联	iabu	48
+小区卫生服务站	iabu	52
 港马	iacg	41
 法式布蕾	iada	1
 江辰	iadf	37
@@ -13407,6 +13511,9 @@ use_preset_vocabulary: true
 活期存款账户	iady	39
 渠县	iaeg	27
 江苏舜天	iaeg	8
+小区服务中心	iaen	98
+小区服务楼	iaes	91
+小区服务站	iaeu	86
 肖若腾	iaeu	91
 漏花墙	iaff	72
 滏东嘉园	iafl	20
@@ -13414,12 +13521,14 @@ use_preset_vocabulary: true
 湛王	iagg	17
 洛基王	iagg	43
 深蓝与月光	iagi	55
+海蔘一号	iagk	78
 港丽	iagm	30
 江亚	iago	99
 灌满	iaia	100
 满江	iaia	18
 池东沅	iaif	92
 泄瀑	iaij	22
+小区活动中心	iain	12
 海牙法庭	iaio	42
 灌酒	iais	89
 港海	iait	62
@@ -13439,6 +13548,7 @@ use_preset_vocabulary: true
 活期帐户存款	iamf	75
 满山	iamm	41
 水芳岩秀	iamt	9
+小区居民委员会	ianw	32
 小昔米	iaoy	54
 清世宗	iapf	11
 清世祖福临	iapj	39
@@ -13458,6 +13568,7 @@ use_preset_vocabulary: true
 海蒂拉玛	iarg	94
 海草舞	iarl	45
 浦项制铁	iarq	89
+小区招待所	iarr	21
 水蒸气渗透	iart	50
 光幕反射	iart	94
 当期持有人	iarw	37
@@ -13473,6 +13584,7 @@ use_preset_vocabulary: true
 柒牌	iath	70
 小茴香	iatj	83
 汉斯季默	iatl	31
+小区委员会	iatw	47
 水落斗	iauf	60
 激萌头像小助手	iaur	76
 洪仁	iawf	2
@@ -13480,6 +13592,7 @@ use_preset_vocabulary: true
 江伟	iawf	42
 活期贷款	iawf	71
 活期信用放款	iawf	74
+小区便民店	iawo	18
 没工作	iawt	75
 江苏人	iaww	16
 漫花谷	iaww	46
@@ -13488,6 +13601,7 @@ use_preset_vocabulary: true
 滞期费	iaxj	85
 小黄衣	iaye	59
 活期放款	iayf	51
+小区计算机维修	iayw	84
 光子工作室	ibap	79
 鸿函巨椟	ibas	10
 池莉	ibat	24
@@ -13529,6 +13643,7 @@ use_preset_vocabulary: true
 小阿西	ibsg	54
 湘子桥	ibst	89
 消防梯	ibsu	49
+湾子街小区	ibta	36
 海防舰	ibte	8
 波耶特	ibtf	10
 堂子街太平天国壁画	ibtg	37
@@ -13546,6 +13661,7 @@ use_preset_vocabulary: true
 潘际銮	ibyo	49
 游戏了	icbn	7
 小熊队	icbw	23
+小马厂小区	icda	78
 小马奔腾	icde	39
 流通在外股本	icds	64
 流通在外债券	icdu	10
@@ -13615,6 +13731,7 @@ use_preset_vocabulary: true
 淹水	idii	28
 漂不漂漂	idii	69
 没感觉	idip	84
+潮泰海蔘馆	idiq	84
 没大没小的	idir	15
 潴龙河	idis	10
 汇龙潭	idis	12
@@ -13741,6 +13858,7 @@ use_preset_vocabulary: true
 活动花坛	ifaf	12
 沈嘉莹	ifap	84
 滚动预算	ifct	50
+海干大厦	ifdd	16
 清真古寺	ifdf	17
 清真大寺	ifdf	98
 常规成本计算法	ifdi	63
@@ -13778,6 +13896,7 @@ use_preset_vocabulary: true
 尚云溪	ifie	9
 尚未清还的贷款	ifif	22
 汗汗	ifif	37
+湘干尚品	ifik	77
 浮动汇率制度	ifio	36
 演武堂	ifip	68
 兴城温泉	ifir	75
@@ -14108,6 +14227,7 @@ use_preset_vocabulary: true
 海上保险业务	ihwt	42
 小张	ihxt	62
 小刘	ihyj	11
+清水苑小区	iiaa	51
 沮渠蒙逊	iiab	17
 酒水节	iiab	66
 渡江节	iiab	91
@@ -14125,6 +14245,7 @@ use_preset_vocabulary: true
 洗澡了	iibn	62
 浙江能源	iici	100
 港澳通行证	iicy	59
+水泥厂小区	iida	85
 小池百合子	iidb	49
 梁小友	iidc	32
 澧水石桥碑	iidd	30
@@ -14180,6 +14301,7 @@ use_preset_vocabulary: true
 渤海上京龙泉府故城遗址	iihf	6
 波波卡	iihg	15
 水叔	iihg	85
+兴涛小区	iiia	96
 涉水池	iiib	36
 污水池	iiib	6
 污染源分布	iiid	72
@@ -14209,6 +14331,7 @@ use_preset_vocabulary: true
 光辉星辰	iijd	36
 泛光照明	iijj	31
 水蚁	iijy	38
+海淀路小区	iika	47
 洗澡中	iikh	100
 涉水踏步	iikh	23
 洛浦路	iikh	9
@@ -14353,6 +14476,7 @@ use_preset_vocabulary: true
 水景图	ijlt	43
 法师帽	ijmh	25
 光明网	ijmr	93
+水晶峯	ijmt	63
 光影魔术手	ijor	6
 小肾魔盒	ijow	75
 小电视卡	ijph	59
@@ -14514,6 +14638,7 @@ use_preset_vocabulary: true
 少典之子	impb	43
 注册的	imrq	63
 油杏	imsk	24
+滇峯楼	imso	98
 油栗	imss	54
 小山竹	imth	43
 注册管理会计师	imtj	47
@@ -14532,6 +14657,7 @@ use_preset_vocabulary: true
 注册续	imxf	38
 注册费	imxj	83
 注册编号	imxk	50
+波峯绿岛	imxq	54
 江山谋	imya	10
 濑由衣	imye	100
 注册评估师	imyj	44
@@ -14595,6 +14721,7 @@ use_preset_vocabulary: true
 法庭裁定某企业破	iofd	6
 满广志	iofn	92
 小米超神	iofp	50
+小庄小区	ioia	89
 温糖水	ioii	45
 消炎水	ioii	97
 消磨时间	ioju	81
@@ -15032,6 +15159,7 @@ use_preset_vocabulary: true
 小毛驴	itcg	56
 洗石	itdg	53
 活在	itdh	17
+演乐胡衕	itdt	92
 澳服	iteb	96
 沃彩	ites	36
 清算股利	itet	5
@@ -15192,6 +15320,7 @@ use_preset_vocabulary: true
 温总理	iugj	83
 汇兑平价	iugw	38
 注意点	iuhk	57
+小关小区	iuia	50
 海关法	iuif	97
 泽善党	iuip	18
 水资源税	iuit	6
@@ -15203,6 +15332,7 @@ use_preset_vocabulary: true
 洁净车间	iulu	81
 小新同学	iumi	94
 洋山	iumm	2
+小辛峯	iumt	16
 海关账	iumt	36
 清单账单	iumu	81
 汇总帐户	iumy	61
@@ -15343,6 +15473,7 @@ use_preset_vocabulary: true
 法人责任制	iwgr	90
 混合理论	iwgy	1
 涂上	iwhg	68
+兴华小区	iwia	20
 海华学院	iwib	13
 濮水	iwii	59
 当你沉睡时	iwij	89
@@ -15361,6 +15492,7 @@ use_preset_vocabulary: true
 法人团体	iwlw	17
 雀岩	iwmd	92
 涉谷由里	iwmj	32
+海俊峯	iwmt	27
 法人财产	iwmu	41
 举债收购	iwnm	90
 深化改革与促进发	iwnn	24
@@ -15567,6 +15699,7 @@ use_preset_vocabulary: true
 汇率报价制度	iyro	7
 游拍	iyrr	86
 汉高后吕雉	iyrt	13
+海户西里北小区	iysa	82
 肖文杰	iyso	43
 汇率机制	iysr	65
 浪矢	iytd	56
@@ -15574,6 +15707,7 @@ use_preset_vocabulary: true
 游千	iytf	30
 流熏	iytg	44
 漂亮生活旅店	iyto	70
+学计算机	iyts	67
 演讲稿	iyty	78
 淳普	iyuo	3
 汇率差额	iyup	91
@@ -15633,6 +15767,7 @@ use_preset_vocabulary: true
 最真	jbfh	79
 最远	jbfq	70
 最老	jbft	31
+电子与计算机	jbgs	73
 电子现金出纳机	jbgs	84
 电除尘器	jbik	79
 日盈电子	jbjb	51
@@ -16259,6 +16394,7 @@ use_preset_vocabulary: true
 时钟塔	jqfa	61
 易王	jqgg	72
 紧急救援基金	jqgq	89
+蜂鸟小区	jqia	77
 是多少啊	jqik	84
 果然是	jqjg	24
 晚星	jqjt	37
@@ -16495,6 +16631,7 @@ use_preset_vocabulary: true
 暹芭	jwac	77
 愚人节快乐	jwat	94
 最低工资	jwau	79
+时代芳羣	jwav	79
 最低基本价值	jwaw	8
 最低期望收益率	jway	97
 暴风勇士	jwcf	55
@@ -16529,6 +16666,7 @@ use_preset_vocabulary: true
 时代性	jwnt	38
 最低收益率	jwny	85
 最低库存	jwod	65
+时代庐峯	jwom	10
 易货业务	jwot	87
 明代宗	jwpf	34
 明仁宗	jwpf	47
@@ -17276,6 +17414,7 @@ use_preset_vocabulary: true
 中国猿人遗址	klqf	45
 中国铝业	klqo	46
 吃软饭的	klqr	95
+中国金融计算机	klqs	97
 中国猪	klqt	23
 中国年	klrh	86
 中国哲学史	klrk	65
@@ -17285,6 +17424,7 @@ use_preset_vocabulary: true
 中国乐队	kltb	54
 别转移话题	kltj	35
 跨国筹资	kltu	85
+中国船东盟会	kltw	50
 哈罗单车	klul	37
 中国美术馆	kluq	51
 嗯好	klvb	53
@@ -17305,6 +17445,8 @@ use_preset_vocabulary: true
 中国经济	klxi	85
 中国旅游	klyi	27
 跨国市场集团	klyl	56
+中国计算器报	klyr	95
+中国计算器学会	klyw	53
 中国市长协会	klyw	56
 哈帕斯	kmad	23
 中央警卫团	kmal	63
@@ -17314,6 +17456,7 @@ use_preset_vocabulary: true
 中央台	kmck	41
 中央存管处	kmdt	38
 中央一号文件	kmgw	54
+顺峯酒店	kmio	66
 吴同学	kmip	23
 跟同学	kmip	36
 中山堂	kmip	66
@@ -17323,6 +17466,7 @@ use_preset_vocabulary: true
 中央汇率	kmiy	12
 勋喵	kmka	12
 听见吗	kmkc	52
+顺峯山庄	kmmo	12
 呆账账户	kmmy	89
 呆账收回	kmnl	88
 中央银行职能	kmqc	94
@@ -17407,6 +17551,7 @@ use_preset_vocabulary: true
 喀戎	kpad	21
 中宗慕容盛	kpad	6
 中富通	kpce	44
+史家胡衕小学	kpdi	56
 吃完面	kpdm	93
 喵赛克	kpdq	68
 吊冤大头	kpdu	25
@@ -17538,7 +17683,9 @@ use_preset_vocabulary: true
 史可法祠墓	ksia	59
 别想溜	ksiq	18
 中西里菜	ksja	55
+中覆电讯商场	ksjf	56
 呆晴	ksjg	28
+中覆电讯	ksjy	36
 听歌啊	kskb	18
 听歌呢	kskn	61
 咒术典籍	ksmt	77
@@ -17807,6 +17954,7 @@ use_preset_vocabulary: true
 吐丝联盟	kxbj	30
 中级驾照	kxej	39
 嘴强王者	kxgf	74
+中纺里小区	kxja	24
 哟啊	kxkb	71
 吸引距离	kxky	88
 吸引圈	kxlu	31
@@ -17831,6 +17979,7 @@ use_preset_vocabulary: true
 跟谁啊	kykb	75
 中试车间	kylu	22
 中文网	kymr	95
+中京剧院	kynb	56
 呈请书	kynn	99
 咬断	kyon	38
 听讲座	kyow	48
@@ -17903,6 +18052,7 @@ use_preset_vocabulary: true
 国际的	lbrq	28
 国际招标	lbrs	26
 国际投资	lbru	86
+鸭子桥小区	lbsa	33
 国际物流	lbti	88
 国际税收	lbtn	96
 国际复兴开发银行	lbtt	57
@@ -18262,6 +18412,7 @@ use_preset_vocabulary: true
 四川话	lkyt	16
 转轮藏	llad	35
 转轮式换热器	llak	34
+车辆厂小区	llda	53
 逻辑不清	lldi	80
 墨连城	llfd	44
 田园城市	llfy	45
@@ -18584,6 +18735,7 @@ use_preset_vocabulary: true
 园林学史	lsik	10
 园林小品	lsik	58
 园林学	lsip	31
+默林小镇	lsiq	100
 园林小气候	lsiw	5
 町中	lskh	3
 图样图森破	lsld	51
@@ -18690,6 +18842,7 @@ use_preset_vocabulary: true
 回头再看	lugr	56
 输送小车	luil	68
 圈梁	luiv	7
+四道口小区	luka	35
 软着路	lukh	43
 转并账户	lumy	27
 墨道烟雨	luof	49
@@ -18763,6 +18916,7 @@ use_preset_vocabulary: true
 软弱无能	lxfc	41
 黑丝带	lxgk	95
 软弱涣散	lxia	26
+团结小区	lxia	96
 回绍兴	lxig	31
 连续清算	lxit	23
 累呀	lxka	100
@@ -18907,6 +19061,7 @@ use_preset_vocabulary: true
 删除估价册内物业	mbwo	33
 网孔盆	mbwv	99
 山阴公主	mbwy	83
+峯台路口	mckk	93
 崇圣饲	mcqn	3
 账面盈利	mdbt	59
 帕夏古丽	mddg	33
@@ -19298,6 +19453,7 @@ use_preset_vocabulary: true
 购回交易	mlyj	34
 山蒜	mmaf	60
 骷髅巨人	mmaw	18
+崎峯茶	mmaw	23
 山隐	mmbq	36
 骷髅骑士	mmcf	85
 岁岁有今朝	mmdf	16
@@ -19313,13 +19469,17 @@ use_preset_vocabulary: true
 山里	mmjf	88
 刚刚啊	mmkb	55
 肉山团	mmlf	37
+峨嵋轩	mmlf	46
 刚刚回来	mmlg	94
+峨嵋山	mmmm	69
+峨嵋山村	mmms	36
 赊账账户	mmmy	58
 婴鲤	mmqg	49
 峯峯相连到天边	mmse	37
 山格	mmst	36
 山柱	mmsy	15
 贿赂和回扣	mmtr	46
+峻峯华亭	mmwy	85
 赊帐方式	mmya	7
 贝内文托	mmyr	65
 凯燕	mnak	41
@@ -19352,6 +19512,7 @@ use_preset_vocabulary: true
 见心斋	mnyd	59
 同业联盟	mobj	86
 肉类加工厂	moed	100
+峯煌肥羊	moeu	98
 崇庆寺	moff	47
 冉庄地道战遗址	moff	73
 周庄王	mogg	28
@@ -19409,6 +19570,7 @@ use_preset_vocabulary: true
 购由	mqmh	1
 购销账户	mqmy	85
 账外业务活动	mqof	75
+周鲇鱼	mqqg	38
 账外负债项目	mqqh	59
 账外负债	mqqw	42
 帐外负债	mqqw	5
@@ -19477,6 +19639,7 @@ use_preset_vocabulary: true
 凯特芒	mtay	20
 见笑了	mtbn	5
 财务预测	mtci	99
+峯台	mtck	58
 财务预算编制	mtcr	84
 财务压力	mtde	27
 财务顾问服务	mtdt	79
@@ -19495,7 +19658,9 @@ use_preset_vocabulary: true
 财务政策	mtgt	88
 财务目标	mths	58
 账龄	mthw	92
+邮科小区	mtia	54
 邮乐小店	mtio	81
+峯山	mtmm	45
 财务账	mtmt	35
 同德殿	mtna	82
 周处庙	mtom	86
@@ -19714,6 +19879,7 @@ use_preset_vocabulary: true
 赔偿保证书	mwwn	69
 崔倓	mwwo	6
 肉傻	mwwt	45
+峯会俱乐部	mwwu	76
 周华健	mwwv	63
 贬低他人	mwww	75
 赊售	mwwy	15
@@ -19765,6 +19931,7 @@ use_preset_vocabulary: true
 周文羽	mynn	26
 赚享客	mypt	25
 帐户名称	myqt	33
+账房村	mysf	92
 见证条款	mytf	11
 丹衡	mytq	89
 帐户代码	mywd	30
@@ -19890,6 +20057,7 @@ use_preset_vocabulary: true
 发不到	ndgc	3
 居正	ndgh	93
 屋面上人孔	ndhb	99
+飞达小区	ndia	71
 已还清的贷款	ndif	7
 剧淘	ndiq	55
 已还清的债务	ndit	59
@@ -19964,6 +20132,9 @@ use_preset_vocabulary: true
 发起攻击	nfag	43
 屠臣	nfah	69
 居者有其屋计划基	nfda	58
+辟才胡衕西口	nfdk	50
+辟才胡衕东口	nfdk	75
+辟才胡衕	nfdt	85
 飞雷龙	nfdx	84
 已运用资本	nfes	50
 买卖远汇溢价	nffw	22
@@ -21171,6 +21342,7 @@ use_preset_vocabulary: true
 魔法未来	oifg	4
 魔潮起时	oifj	83
 烟波致爽	oigd	98
+府学小区	oiia	43
 魔法少年	oiir	62
 廖耀湘	oiis	74
 灯光渡桥	oiis	97
@@ -21497,6 +21669,7 @@ use_preset_vocabulary: true
 业权证明	osyj	45
 业权文件	osyw	96
 广和通	otce	5
+康德大厦	otdd	81
 精算原则	otdm	40
 米利克	otdq	62
 库科奇	otds	11
@@ -22005,6 +22178,8 @@ use_preset_vocabulary: true
 定慧寺	pdff	42
 窦大夫祠	pdfp	33
 写不清楚	pdis	39
+宜春里小区	pdja	74
+安慧里小区	pdja	88
 密码是	pdjg	90
 密码是多少	pdji	47
 宜春中学	pdki	19
@@ -22028,6 +22203,7 @@ use_preset_vocabulary: true
 宋慧乔	pdtd	89
 割我	pdtr	21
 害我	pdtr	6
+安慧北瑞安园	pdul	73
 寄存单据	pdur	64
 空砍群	pdvt	19
 宋成公王臣	pdwa	61
@@ -22394,6 +22570,7 @@ use_preset_vocabulary: true
 宋庄公冯	powu	21
 家庭经济	poxi	89
 家庭主男	poyl	1
+家庭计算机世界	poyl	88
 安炯燮	poyo	67
 空军节	ppab	84
 之墓	ppaj	15
@@ -22428,6 +22605,7 @@ use_preset_vocabulary: true
 审定财务报表	ppmg	7
 安禄山	ppmm	43
 宇宙财务有限公司	ppmn	83
+祁家豁子小区	pppa	44
 宋宁宗	pppf	70
 宋神宗	pppf	71
 宁宝宝	pppg	24
@@ -22456,6 +22634,7 @@ use_preset_vocabulary: true
 写字条	ppts	5
 定额备用金账户	ppty	7
 额定资本	ppus	17
+客家俬房菜	ppwa	43
 定额储蓄计划	ppwa	5
 补空仓	ppwb	71
 宋宣公	ppwc	15
@@ -22474,6 +22653,7 @@ use_preset_vocabulary: true
 额外承担	pqbr	57
 祖氏石坊	pqdf	18
 额外成本	pqds	34
+宝钞胡衕	pqdt	91
 额外加成	pqed	85
 豁免款项	pqfa	65
 额外款项	pqfa	79
@@ -22481,6 +22661,7 @@ use_preset_vocabulary: true
 安钧璨	pqgh	71
 容金珍	pqgw	41
 割包皮	pqhc	11
+安逸小区	pqia	12
 额外津贴	pqim	21
 额外赏赐	pqim	78
 视错觉	pqip	27
@@ -22572,6 +22753,7 @@ use_preset_vocabulary: true
 审查员	pskm	95
 宿根园	pslf	22
 宋相思	psln	88
+神桃峯	psmt	44
 宋烨	psow	89
 穹顶之下	pspg	10
 宋寅	pspg	69
@@ -22625,8 +22807,10 @@ use_preset_vocabulary: true
 神秘河	ptis	40
 宇智波佐良娜	ptiv	80
 宠物小精灵	ptiv	89
+安德里小区	ptja	86
 定向照明	ptjj	96
 宁德时代	ptjw	9
+安德路小区	ptka	63
 宅男	ptle	32
 宅园	ptlf	100
 神乐署	ptlf	13
@@ -22698,6 +22882,7 @@ use_preset_vocabulary: true
 初次预测	puci	12
 窝阔台	puck	8
 宝瓶套	pudd	41
+宝产胡衕	pudt	63
 实益股份	puew	91
 空间规划	pufa	60
 空斗墙	puff	81
@@ -22858,6 +23043,7 @@ use_preset_vocabulary: true
 安分点	pwhk	20
 空掌	pwip	78
 礼仪漫谈	pwiy	78
+安华里小区	pwja	22
 社会影响报表	pwjg	19
 安全照明	pwjj	49
 社会影响评价	pwjw	78
@@ -23213,6 +23399,7 @@ use_preset_vocabulary: true
 急不来	qdgo	22
 鲁丰环保	qdgw	68
 争夺战争	qdhq	16
+钢研小区	qdia	88
 鲜厨当道	qdiu	87
 然是	qdjg	89
 钱不是问题	qdjj	1
@@ -23304,6 +23491,7 @@ use_preset_vocabulary: true
 逛起来	qfgo	96
 包起来	qfgo	97
 镇魂珠	qfgr	77
+金干鼎超市	qfhy	73
 钱塘港	qfia	98
 银雾湖	qfid	93
 钱清	qfig	45
@@ -23589,6 +23777,7 @@ use_preset_vocabulary: true
 外汇经销商	qixy	7
 多少遍	qiyn	49
 外汇市场交投总额	qiyp	17
+银河计算机	qiys	66
 外汇交易商	qiyy	24
 贸易盈余	qjbw	43
 狂暴双刃	qjcv	81
@@ -23637,6 +23826,7 @@ use_preset_vocabulary: true
 夕日红	qjxa	84
 贸易经济体系	qjxt	87
 外星文明	qjyj	91
+铁路医院小区	qkaa	71
 兔牙	qkah	83
 多嘴驴	qkcg	66
 免压	qkdf	81
@@ -23704,9 +23894,11 @@ use_preset_vocabulary: true
 镶嵌花坛	qmaf	15
 锤峰落照	qmaj	25
 钟山陆游题名石刻	qmby	65
+鑫峯大厦	qmdd	63
 铠龙	qmdx	52
 镇岗塔	qmfa	73
 乌骨城	qmfd	11
+迎峯坡	qmfh	29
 鸳鸯埙	qmfk	19
 金山毒霸	qmgf	58
 铁岭小辉	qmii	27
@@ -23714,6 +23906,7 @@ use_preset_vocabulary: true
 钢困	qmls	56
 铠岩	qmmd	57
 鸳鸯帕	qmmh	47
+独峯书院	qmnb	53
 金刚座舍利宝塔	qmof	54
 铜业	qmog	16
 免赔额保险	qmpb	36
@@ -23797,6 +23990,7 @@ use_preset_vocabulary: true
 饮料厂	qodg	5
 锅炉厂	qodg	81
 锁库存	qodh	52
+钱粮胡衕	qodt	14
 多数股东	qoea	99
 多数股权	qoes	75
 饲料加工间	qoeu	29
@@ -23881,6 +24075,7 @@ use_preset_vocabulary: true
 钢铁战队	qqhb	92
 多睡	qqht	39
 金钱上的法律责任	qqhw	98
+鲇鱼沟	qqiq	74
 金银河	qqis	22
 铮铮日上	qqjh	74
 金日	qqjj	17
@@ -23901,6 +24096,7 @@ use_preset_vocabulary: true
 钢铁业	qqog	63
 铁锅炖自己	qqon	17
 多床	qqos	69
+狐狸家俬房菜	qqpa	63
 针灸室	qqpg	64
 狩猎宽刃	qqpv	3
 多铎	qqqc	73
@@ -23966,6 +24162,7 @@ use_preset_vocabulary: true
 乌拉古城	qrdf	100
 狗年大吉	qrdf	76
 钢抹压光	qrdi	63
+锡拉胡衕	qrdt	52
 然后用	qreh	49
 金盾股份	qrew	92
 负担卖空者	qrff	46
@@ -24150,6 +24347,7 @@ use_preset_vocabulary: true
 猴尾	qtnt	53
 免税收益	qtnu	41
 银行买价	qtnw	33
+金悉尼	qtnx	14
 银行业者	qtof	47
 银行业务谘询委员	qtok	85
 多行业公司	qton	45
@@ -24322,6 +24520,7 @@ use_preset_vocabulary: true
 铲虾	qujg	13
 金飒帅	qujm	81
 猪头啊	qukb	53
+银冶岭小区	quma	52
 铁背山山城	qumf	39
 狗头帽	qumh	6
 独立账目	qumh	90
@@ -24632,6 +24831,7 @@ use_preset_vocabulary: true
 拼花硬木地板	rads	92
 白茹云	rafc	47
 殷切需求	rafg	51
+拉斯韦加斯湾	rafi	14
 扩散场	rafn	25
 朱世赫	rafo	100
 近世进士尽是近视	rafp	15
@@ -24697,6 +24897,7 @@ use_preset_vocabulary: true
 近卫荣耀	rbai	45
 扣除及免税总额	rbbp	35
 按职能分类	rbco	96
+报子胡衕	rbdt	15
 打出去	rbfc	3
 凶魂	rbfc	37
 换出去	rbfc	41
@@ -24961,6 +25162,7 @@ use_preset_vocabulary: true
 年月日时分	rejw	49
 接受啊	rekb	75
 接受跟单汇单	reku	81
+迭彩园	relf	83
 挂月峰	remt	30
 挪用补空	repp	14
 控股银行	reqt	38
@@ -25042,6 +25244,7 @@ use_preset_vocabulary: true
 扶幽	rfmx	3
 提款账户	rfmy	11
 排云殿	rfna	32
+皇干殿	rfna	77
 摄魂怪	rfnc	18
 探索发现	rfng	28
 扶壁	rfnk	29
@@ -25149,6 +25352,7 @@ use_preset_vocabulary: true
 找事啊	rgkb	17
 看到吗	rgkc	54
 后天吧	rgkc	85
+朱丽叶	rgkf	95
 看到啦	rgkr	35
 邱园	rglf	51
 白求恩手术室旧址	rglf	72
@@ -25458,6 +25662,7 @@ use_preset_vocabulary: true
 撤回股份	rlew	38
 抬回去	rlfc	71
 报国寺	rlff	28
+皁甲屯	rlgb	61
 魄罗王	rlgg	58
 拷回来	rlgo	56
 年轻漂亮	rliy	21
@@ -25538,6 +25743,7 @@ use_preset_vocabulary: true
 所里	rnjf	93
 看书啦	rnkr	25
 拨回	rnlk	48
+迭翠山	rnmm	91
 扎导	rnnf	61
 热惰性	rnnt	1
 热惯性	rnnt	5
@@ -25547,6 +25753,7 @@ use_preset_vocabulary: true
 后羿精灵王	rnog	32
 所写	rnpg	16
 杀戮之影	rnpj	9
+迭翠宫	rnpk	90
 接收牢房	rnpy	65
 反情色	rnqc	35
 批发银行业务	rnqt	100
@@ -26042,6 +26249,7 @@ use_preset_vocabulary: true
 按要素成本计算	rsgt	22
 抽样理论	rsgy	21
 搭配战	rshk	51
+白西小区	rsia	94
 手机没流量了	rsib	88
 抽样法	rsif	50
 投机活动	rsif	90
@@ -26500,6 +26708,7 @@ use_preset_vocabulary: true
 扣减率	ruyx	86
 反美帝国主义	ruyy	91
 扫匪	rvah	65
+皁君东里	rvaj	76
 瓜娃子	rvbb	28
 热了	rvbn	72
 抛砖	rvdf	78
@@ -26527,6 +26736,8 @@ use_preset_vocabulary: true
 弒君贼	rvma	82
 垫层	rvnf	53
 后召庙辽石窟寺	rvof	64
+皁君庙	rvom	57
+皁君庙东站	rvou	26
 抛空	rvpw	73
 热钱	rvqf	98
 朱聿钅粤	rvqt	1
@@ -26535,6 +26746,7 @@ use_preset_vocabulary: true
 挺好的啊	rvrk	73
 挺好看的	rvrr	16
 执手	rvrt	18
+皁君西里	rvsj	28
 扫楼	rvso	31
 热桥	rvst	30
 抛盘	rvte	28
@@ -26829,6 +27041,7 @@ use_preset_vocabulary: true
 押记令	rywy	55
 后主刘鋹	ryyq	13
 后主高纬	ryyx	74
+梦莉萨	saab	19
 槐花节	saab	85
 棋邪	saah	54
 格蕾雅	saah	59
@@ -26841,9 +27054,11 @@ use_preset_vocabulary: true
 杨菊花	saaw	93
 本期盈余	sabw	8
 横夏	sadh	95
+棉花胡衕幼儿园	sadl	43
 林荫大道	sadu	95
 李英爱	saep	98
 林东塔	safa	1
+柳芳南里小区	safa	20
 西黄寺	saff	13
 李若嘉	safk	61
 李荣均	safq	32
@@ -26851,6 +27066,7 @@ use_preset_vocabulary: true
 林落雪	safv	47
 李若雪	safv	69
 楚共王	sagg	56
+桥东小区	saia	89
 李若溪	saie	13
 桃花泛滥	saii	29
 棋渣	sais	97
@@ -26881,6 +27097,7 @@ use_preset_vocabulary: true
 杜蒙特	satf	97
 查斯特贝宁顿	satg	90
 杰斯特拉	satr	79
+柳芳北里小区	saua	22
 本期净损失	saur	4
 本期净损益	sauu	89
 樱花妆	sauv	9
@@ -27156,6 +27373,8 @@ use_preset_vocabulary: true
 李郝瑞	sfgm	42
 想起来	sfgo	43
 林志玲	sfgw	13
+西坝河西里小区	sfia	26
+西坝河中里小区	sfia	37
 李云泽	sfic	6
 林超泽	sfic	80
 椿去湫来	sfig	38
@@ -27402,6 +27621,7 @@ use_preset_vocabulary: true
 酿酒厂	sidg	37
 西湖大学	sidi	61
 李泽邦	sidt	1
+西泽大帝	sidy	71
 松潘县	sieg	100
 李常超	sifh	66
 李汶翰	sifj	41
@@ -27430,6 +27650,7 @@ use_preset_vocabulary: true
 可流转票	sils	77
 可流转证券	silu	5
 林洋转债	silw	18
+西泽国旅	sily	92
 李小冉	simf	61
 醉江山	simm	13
 贾湖骨笛	simt	29
@@ -27598,7 +27819,10 @@ use_preset_vocabulary: true
 可转让信用证	slyy	17
 构思设计	slyy	73
 楢山节考	smaf	39
+梓峯大厦	smdd	12
 栖岩寺塔	smff	6
+西峯寺	smff	68
+西峯寺村	smfs	24
 梅贻琦	smgd	42
 楚幽王	smgg	87
 相同津贴的原则	smim	62
@@ -27615,11 +27839,14 @@ use_preset_vocabulary: true
 可赎回股份	smlw	45
 可赎回的押记	smly	96
 李由由	smmh	72
+西峯山	smmm	90
+西峯山村	smms	20
 横山岭	smmw	58
 西山煤电	smoj	7
 樱火	smoo	12
 松冈祯丞	smpb	51
 桐宫	smpk	46
+梓峯宾馆	smpq	48
 西贝尔	smqi	26
 樱狼	smqt	61
 樱犹	smqt	90
@@ -27798,6 +28025,7 @@ use_preset_vocabulary: true
 梦之泪伤	spiw	78
 林宪明	spje	72
 贾富贵	spkh	59
+杨家园小区	spla	46
 丁祥恩	spld	93
 核定账户	spmy	49
 丁字账户	spmy	70
@@ -27819,6 +28047,7 @@ use_preset_vocabulary: true
 榨空头	spud	23
 李宣美	spug	29
 机密资料	spuo	43
+杨家俬房菜	spwa	40
 要被他	spwb	23
 李宗仁	spwf	40
 李安全	spwg	3
@@ -27990,6 +28219,7 @@ use_preset_vocabulary: true
 李歌洋	ssiu	13
 柏林少女	ssiv	99
 梦想演唱会	ssiw	88
+松榆里小区	ssja	66
 森林日	ssjj	77
 西西里岛	ssjq	10
 醒醒吧	sskc	83
@@ -28000,6 +28230,7 @@ use_preset_vocabulary: true
 核查员	sskm	85
 棕榈叶式柱	ssks	26
 板材吊顶	ssks	60
+核桃园小区	ssla	83
 松柏园	sslf	19
 杨根思烈士陵园	ssll	14
 桃树软件	sslw	28
@@ -28230,6 +28461,7 @@ use_preset_vocabulary: true
 李遵顼	sugd	26
 杨善平	sugu	43
 可兑现资产	sugu	86
+柳北小区	suia	17
 权益法长期股权投	suir	66
 杨新海	suit	19
 林间小道	suiu	35
@@ -28244,6 +28476,7 @@ use_preset_vocabulary: true
 极盗车神	sulp	46
 权益转让	suly	74
 李兰迪	sump	24
+西辛峯	sumt	11
 权益账户	sumy	9
 权益帐户	sumy	94
 标准收费表	sung	67
@@ -28489,7 +28722,9 @@ use_preset_vocabulary: true
 可疑债务	sxwt	33
 要约价	sxww	52
 要约人	sxww	6
+西绒线胡衕东	sxxa	17
 杨继红	sxxa	9
+西绒线胡衕西	sxxs	46
 可终结的权益	sxxu	62
 攀缘绿化	sxxw	20
 楚顷襄王	sxyg	93
@@ -28526,6 +28761,7 @@ use_preset_vocabulary: true
 可调整利率债券	sygu	29
 可变现净值	sygw	14
 可变现价值	sygw	57
+梵高水郡小区	syia	16
 柏记水饺	syiq	53
 杭州海关	syiu	18
 概率题	syjg	45
@@ -28792,6 +29028,7 @@ use_preset_vocabulary: true
 选出来	tbgo	79
 我也睡觉了	tbhb	55
 我也睡不着	tbhu	26
+向阳小区	tbia	19
 我也没有	tbid	42
 我也没办法	tbii	85
 我也没办法啊	tbik	1
@@ -29624,6 +29861,7 @@ use_preset_vocabulary: true
 我都说了	tfyb	39
 自动调节机能	tfyc	27
 选译	tfyc	48
+长城计算机大厦	tfyd	37
 自动调整条款	tfyf	35
 第二市场	tfyf	63
 我无语	tfyg	6
@@ -29633,6 +29871,7 @@ use_preset_vocabulary: true
 魏元帝曹奂	tfyq	11
 魏武帝曹操	tfyr	59
 自动调节机制	tfyr	84
+长城计算器学校	tfys	40
 魏元帝	tfyu	16
 魏武帝	tfyu	97
 自动详图制作	tfyw	46
@@ -29682,11 +29921,13 @@ use_preset_vocabulary: true
 管理不善	tgdu	16
 往事不堪回首	tgdu	27
 得理不饶人	tgdw	87
+条形码与信息系统	tgdx	49
 特殊用地	tgef	43
 篮球架	tgek	98
 行政办公楼	tges	33
 牛腿	tgev	45
 管理受托人	tgew	87
+航天城小区	tgfa	98
 我到教室了	tgfb	36
 特殊才能	tgfc	100
 我更喜欢	tgfc	24
@@ -30045,6 +30286,7 @@ use_preset_vocabulary: true
 我没上	tihg	6
 复活卡	tihg	61
 利润目标	tihs	94
+科源小区	tiia	46
 我没流量了	tiib	73
 我洗澡去了	tiib	98
 生活污水	tiii	41
@@ -30449,6 +30691,7 @@ use_preset_vocabulary: true
 重置价值	tlww	98
 第四张	tlxt	30
 策略计划	tlya	53
+长峯医院	tmab	74
 微萌	tmaj	95
 奥萝	tmal	19
 微警	tmaq	44
@@ -30516,6 +30759,8 @@ use_preset_vocabulary: true
 千岁寒	tmpa	38
 自由宝	tmpg	90
 微财富	tmpg	93
+盘峯宾馆	tmpq	72
+长峯宾馆	tmpq	83
 币安	tmpv	93
 身外	tmqh	14
 自由外汇	tmqi	32
@@ -30548,7 +30793,9 @@ use_preset_vocabulary: true
 奥妹	tmvf	75
 筒仓	tmwb	37
 向他	tmwb	90
+长峯假日酒店	tmwo	56
 自由企业制度	tmwo	71
+科峯公寓	tmwp	61
 向你	tmwq	13
 奥爹	tmwr	33
 微体	tmws	45
@@ -30559,6 +30806,7 @@ use_preset_vocabulary: true
 我刚纔	tmxq	97
 迁册计划	tmya	23
 牡丹亭	tmyk	99
+每周计算机报	tmyr	30
 自由放任政策	tmyt	40
 穆迪评级	tmyx	3
 剩蛋节	tnab	81
@@ -30596,6 +30844,7 @@ use_preset_vocabulary: true
 税收漏洞	tnii	92
 我心雀跃	tnik	24
 乐漾	tniu	89
+悉尼澳乡	tnix	58
 特异景观风景区	tnja	33
 我忙啊	tnkb	27
 我快吐了	tnkb	61
@@ -30697,6 +30946,7 @@ use_preset_vocabulary: true
 物业转易收费标准	tolu	36
 物业转让	toly	34
 香炉峰	tomt	54
+香炉峯	tomt	83
 香炉怪	tonc	94
 程序买卖	tonf	54
 翻屋	tong	76
@@ -30744,8 +30994,10 @@ use_preset_vocabulary: true
 行窃预兆	tpcq	84
 长安故事	tpdg	93
 自定成本	tpds	47
+魏家胡衕	tpdt	59
 冬礼服	tpeb	28
 牛初乳	tpeb	70
+先农坛小区	tpfa	87
 算定款项	tpfa	99
 魏宵云	tpfc	18
 衍福寺双塔	tpff	16
@@ -30760,6 +31012,7 @@ use_preset_vocabulary: true
 魏安王圉	tpgl	93
 魏安王假	tpgw	58
 梨视频	tphh	37
+德宝小区	tpia	47
 管溪	tpie	29
 科室活动	tpif	65
 稳定水平	tpig	88
@@ -31876,6 +32129,7 @@ use_preset_vocabulary: true
 备录取	tvbc	27
 我好了	tvbn	33
 我忍了	tvbn	75
+科羣大厦	tvdd	61
 等妖三角形	tvdg	62
 很感	tvdg	83
 御姐在上	tvdh	65
@@ -31892,12 +32146,14 @@ use_preset_vocabulary: true
 我好无聊啊	tvfk	59
 很雷	tvfl	30
 很老	tvft	58
+利羣超市	tvfy	54
 魏击	tvgb	29
 很好玩	tvgf	24
 我退下	tvgh	61
 很严	tvgo	77
 魏琛	tvgp	84
 很好玩的	tvgr	29
+乔建小区	tvia	20
 魏源	tvid	95
 很灵光	tvig	96
 很湿	tvij	47
@@ -31925,6 +32181,7 @@ use_preset_vocabulary: true
 处女情结	tvnx	79
 我好烦	tvod	13
 很烦	tvod	16
+利羣烤鸭店	tvoo	53
 穆如寒江	tvpi	56
 重建家园	tvpl	70
 很空	tvpw	42
@@ -32434,6 +32691,7 @@ use_preset_vocabulary: true
 特许权使用费	tysx	48
 特许权折让	tysy	77
 我就知道了	tytb	32
+微计算器应用	tyte	68
 告诉我一下	tytg	58
 入息	tyth	26
 利率衍生工具	tyth	79
@@ -32561,6 +32819,7 @@ use_preset_vocabulary: true
 总共你要付	uaww	92
 并级	uaxb	58
 首期费用	uaxe	55
+新世纪计算机学校	uaxs	40
 章莹颖	uaxt	52
 前期调整	uayg	58
 差若豪牦缪以千里	uayj	34
@@ -32585,6 +32844,7 @@ use_preset_vocabulary: true
 亲子趴	ubkh	11
 关了哦	ubkt	52
 闫子贝	ubmh	68
+新陆峯洲	ubmi	54
 瓶子怪	ubnc	3
 章子怡	ubnc	6
 阁院禅林寺	ubpf	18
@@ -32661,6 +32921,7 @@ use_preset_vocabulary: true
 冯弘	ucxc	29
 普通商业用语	ucyy	29
 普通商业语言	ucyy	8
+北辰东路小区	udaa	30
 券式	udaa	82
 章不苦	udad	28
 曾春蕾	udaf	76
@@ -32698,6 +32959,7 @@ use_preset_vocabulary: true
 凑活	udit	90
 郑当	udiv	60
 郑泫	udiy	52
+北三里小区	udja	64
 决不是	udjg	95
 头曼	udjl	63
 姜还是老的辣	udju	60
@@ -32836,6 +33098,7 @@ use_preset_vocabulary: true
 并未注册为法团的	ufir	33
 冰霜法杖	ufis	98
 冲动是魔鬼	ufjr	97
+首都师范大学良乡校区西門	ufju	82
 凌中	ufkh	62
 次干路	ufkh	81
 斗口	ufkk	85
@@ -32921,6 +33184,7 @@ use_preset_vocabulary: true
 美马	ugcg	76
 单一预算	ugct	53
 总平面规划	ugda	79
+新开胡衕	ugdt	42
 总平面运输设计	ugdy	30
 半天不说话	ugdy	76
 前列腺炎	ugeo	27
@@ -33059,6 +33323,7 @@ use_preset_vocabulary: true
 关小迪	uimp	12
 美小迪	uimp	66
 亲水网	uimr	41
+新水峯	uimt	94
 减少居中融资功能	uinc	42
 资源局	uinn	32
 冰海精灵	uiov	73
@@ -33068,6 +33333,7 @@ use_preset_vocabulary: true
 新兴的	uirq	49
 前小白	uirr	60
 减少损失	uirr	89
+新源西里小区	uisa	14
 冯小树	uisc	24
 冰杖	uisd	71
 资源配置	uisl	34
@@ -33255,6 +33521,7 @@ use_preset_vocabulary: true
 首财官	umph	13
 羊肉馅	umqn	42
 阎崇年	umrh	23
+新峯村	umsf	78
 半肉半攻	umua	13
 半肉半输出装	umuu	63
 郑幽公	umwc	71
@@ -33345,6 +33612,7 @@ use_preset_vocabulary: true
 减灾学	upip	63
 亲密治疗	upiu	51
 郑宏咦	upkg	12
+冰窖口胡衕西口	upkk	30
 将军崖岩画	upmg	76
 差额帐	upmh	94
 关宏峰	upmt	29
@@ -33395,6 +33663,7 @@ use_preset_vocabulary: true
 竟争对手	uqcr	4
 姜逸磊	uqdd	6
 新鲜感	uqdg	54
+新鲜胡衕小学	uqdi	86
 疯狂夺金	uqdq	63
 资金成本	uqds	89
 煎饼塔	uqfa	80
@@ -33665,6 +33934,7 @@ use_preset_vocabulary: true
 资本赎回	usml	84
 资本赎回储备	usmt	32
 资本赎回业务	usmt	78
+新峯	usmt	94
 资本财货	usmw	15
 资本赎回合约	usmx	96
 资本周转率	usmy	55
@@ -34090,6 +34360,7 @@ use_preset_vocabulary: true
 资产退役	uuvt	16
 弟弟妹妹	uuvv	4
 资产剥离	uuvy	51
+北新仓小区	uuwa	89
 资产使用年限	uuwb	31
 资产代码	uuwd	71
 韶颜倾城	uuwf	4
@@ -34139,6 +34410,7 @@ use_preset_vocabulary: true
 美女照	uvjv	30
 准妈咪	uvko	39
 剃刀狗	uvqt	2
+益羣木业	uvso	98
 郑姝音	uvuj	48
 新建北路	uvuk	9
 闪刀姬	uvva	72
@@ -34171,6 +34443,7 @@ use_preset_vocabulary: true
 前集泰宁	uwdp	11
 部分有抵押	uwdr	99
 单位成本	uwds	58
+美食大排檔	uwds	85
 差价有价证券	uwdu	3
 单位面积收费	uwdx	7
 半个月	uwee	87
@@ -34375,10 +34648,12 @@ use_preset_vocabulary: true
 北京队	uybw	93
 单方承诺	uyby	98
 北京欢迎你	uycw	68
+北京硅谷计算机城	uydf	62
 北京大学红楼	uyds	18
 兰亭碎亭	uydy	58
 道亦不变	uydy	9
 新衣服	uyeb	73
+北京干博	uyff	34
 凉露	uyfk	10
 北京动物园	uyfl	85
 郑帝元	uyfq	64
@@ -34425,6 +34700,7 @@ use_preset_vocabulary: true
 单扇门	uyuy	86
 郑永妍	uyvg	36
 北京君正	uyvg	48
+北京羣众艺术馆	uyvq	90
 郑襄公	uywc	47
 凉公	uywc	5
 阎启俊	uywc	66
@@ -34440,8 +34716,10 @@ use_preset_vocabulary: true
 北方华创	uyww	65
 兰方人	uyww	95
 咨询费	uyxj	46
+北京计算器一厂	uyyd	91
 北帝诞	uyyt	56
 闵帝	uyyu	4
+娜莉萨大厦	vaad	63
 姬苏	vaae	8
 姬熙	vaah	10
 姬囏	vaak	39
@@ -34456,6 +34734,7 @@ use_preset_vocabulary: true
 姬友	vadc	55
 姬奭	vadd	84
 姬胡	vade	86
+羣芳三园	vadl	59
 姬奋	vadl	66
 姬臧	vadn	11
 杂警奇兵	vadr	26
@@ -34475,6 +34754,7 @@ use_preset_vocabulary: true
 姬嘉	vafk	23
 姬露	vafk	65
 姬喜	vafk	92
+羣芳二园	vafl	62
 姬赤	vafo	99
 姬元	vafq	34
 姬开	vaga	91
@@ -34515,8 +34795,11 @@ use_preset_vocabulary: true
 姬踕	vakh	18
 姬贵	vakh	78
 姬哙	vakw	78
+羣芳园小区	vala	28
 姬辄	valb	24
 姬黔	valf	83
+羣芳园	valf	85
+羣芳四园	vall	35
 杂项固定资产	valu	13
 姬周	vamf	42
 姬同	vamg	24
@@ -34567,9 +34850,11 @@ use_preset_vocabulary: true
 姬息	vath	35
 姬延	vath	88
 姬衍	vati	85
+羣英科技园	vatl	78
 姬稠	vatm	10
 姬秋	vato	5
 姬颓	vatw	95
+羣芳新区	vaua	41
 姬朔	vaub	33
 姬兰	vaud	8
 姬郑	vaud	99
@@ -34596,6 +34881,7 @@ use_preset_vocabulary: true
 姬费	vaxj	3
 姬弗	vaxj	97
 姬强	vaxk	21
+羣英幼儿园	vaxl	21
 姬缗	vaxn	56
 姬纠	vaxn	96
 灵芝乡	vaxt	24
@@ -34726,6 +35012,7 @@ use_preset_vocabulary: true
 退还税款通知书	vdtn	73
 好郁闷	vdun	75
 退还差饷	vduq	79
+羣龙阁	vdut	92
 九龙门	vduy	99
 女友奴	vdvc	84
 九成妖塔	vdvf	2
@@ -34764,6 +35051,8 @@ use_preset_vocabulary: true
 她走了	vfbn	32
 好无聊	vfbq	43
 好喜欢	vfcq	55
+灵境胡衕东口	vfdk	93
+灵境胡衕	vfdt	31
 好坏不分	vfdw	80
 即场成交	vfdy	66
 灵魂劫卜	vffh	21
@@ -34870,6 +35159,7 @@ use_preset_vocabulary: true
 即日回购协议	vjly	64
 妲己	vjnn	40
 即时库存	vjod	66
+羣星宾馆	vjpq	18
 娼狗	vjqt	41
 即日指示	vjrf	60
 如果可以的话	vjsy	92
@@ -34877,11 +35167,13 @@ use_preset_vocabulary: true
 尹明善	vjug	77
 婊里婊气	vjvr	55
 好易贷	vjwa	50
+羣星集团公司	vjwn	14
 即日追补按金	vjwq	71
 即日追缴保证金	vjwq	94
 如果你要	vjws	90
 如果你觉得	vjwt	71
 如果逾期不交纳	vjwx	62
+羣星幼儿园	vjxl	91
 如果这样子	vjyb	3
 如果这都不算爱	vjye	51
 她是谁啊	vjyk	49
@@ -34923,7 +35215,10 @@ use_preset_vocabulary: true
 巡回审计	vlpy	21
 九幽台	vmck	61
 女同事	vmgk	9
+始峯五金	vmgq	15
 女同学	vmip	40
+妙峯山	vmmm	51
+妙峯山镇	vmmq	71
 女同性恋	vmny	52
 好肉麻	vmos	67
 建网站	vmuh	93
@@ -35294,6 +35589,7 @@ use_preset_vocabulary: true
 羣交	vtyw	68
 建筑设备系统	vtyx	85
 建筑设施	vtyy	5
+九门胡衕	vudt	52
 嫌脏	vueo	11
 奶瓶雨	vufg	11
 妃凌雪	vufv	96
@@ -35386,6 +35682,7 @@ use_preset_vocabulary: true
 退休职工收入保障	vwbb	28
 婚途陌路	vwbk	47
 妇保院	vwbp	13
+羣众出版社	vwbp	56
 群众参与	vwcg	74
 好像不止	vwdh	28
 寻人大师	vwdj	13
@@ -35452,6 +35749,7 @@ use_preset_vocabulary: true
 建设工期	vyaa	61
 刃鞭	vyak	29
 建设工程规划许可证	vyay	12
+羣言出版社	vybp	11
 奴良陆生	vybt	90
 建议预算	vyct	47
 建设有中国特色的	vydr	58
@@ -35477,11 +35775,19 @@ use_preset_vocabulary: true
 妫突	vypw	61
 九州岛岛龙陵	vyqb	41
 九州岛龙陵	vyqb	58
+九州岛大厦	vyqd	84
 妫鲍	vyqg	23
+九州岛渔港	vyqi	30
 九州岛岛四海	vyqi	55
 九州岛四海	vyqi	99
+九州岛通药业	vyqo	99
+九州岛出版社	vyqp	100
+九州岛家园宾馆	vyqq	27
+九州岛宾馆	vyqq	69
 九州岛八极	vyqs	93
 九州岛岛八极	vyqs	94
+九州岛体育	vyqy	11
+九州岛通大药房	vyqy	64
 女主持	vyrf	15
 即市按金	vyrq	56
 怒放的生命	vyrw	8
@@ -35520,6 +35826,7 @@ use_preset_vocabulary: true
 佐藤聪美	wabu	65
 贷项通知书	wacn	41
 借项通知书	wacn	94
+化工大院小区	wada	39
 余式厚	wadj	41
 公共有限公司	wadn	91
 信雅达	wadp	20
@@ -35553,6 +35860,7 @@ use_preset_vocabulary: true
 公共政策	wagt	40
 佐藤政信	wagw	74
 借点	wahk	22
+体东小区	waia	74
 公共澡堂	waii	23
 人工小时法	waii	53
 人工混响	waik	77
@@ -35869,6 +36177,7 @@ use_preset_vocabulary: true
 佑惑	wdak	38
 公布草案	wdap	35
 分布式电子计算机	wdas	37
+人大附中小区	wdba	17
 优陌	wdbd	20
 段随	wdbd	24
 做不出来	wdbg	53
@@ -36111,6 +36420,7 @@ use_preset_vocabulary: true
 人寿年金	wdrq	54
 保存的	wdrq	85
 你在看什么	wdrt	24
+华威西里小区	wdsa	47
 你太可爱了	wdsb	13
 你不要我了	wdsb	90
 做票	wdsf	53
@@ -36160,6 +36470,7 @@ use_preset_vocabulary: true
 你帮我问问	wdtu	43
 你不知道	wdtu	68
 你不知道就别说	wdty	63
+华威北里小区	wdua	29
 伏羊	wdug	57
 你有病	wdug	69
 你愿意吗	wduk	62
@@ -36953,6 +37264,7 @@ use_preset_vocabulary: true
 仅此一件	whgw	73
 你上班	whgy	37
 你叔叔	whhg	38
+优点小区	whia	63
 你上学吗	whik	36
 你睡觉了吗	whik	82
 个园	whlf	37
@@ -37446,6 +37758,7 @@ use_preset_vocabulary: true
 全国证券商协会	wlyw	22
 亿帆医药	wmaa	43
 合同期满	wmai	92
+华峯药店	wmao	71
 价内期权	wmas	20
 假山工程	wmat	53
 几岁了	wmbn	15
@@ -37461,6 +37774,7 @@ use_preset_vocabulary: true
 您刚才发送的消息	wmft	91
 仙球	wmgg	88
 你刚来啊	wmgk	74
+华峯青年酒店	wmgo	32
 催死	wmgq	7
 侧光	wmig	80
 付岩洞	wmim	32
@@ -37474,6 +37788,7 @@ use_preset_vocabulary: true
 伏见司	wmng	67
 侧廊	wmoy	82
 合同解除	wmqb	67
+华峯饭店	wmqo	33
 焦山抗英炮台遗址	wmrf	63
 侗年	wmrh	29
 合同投资	wmru	57
@@ -37484,8 +37799,10 @@ use_preset_vocabulary: true
 偏见先生	wmtt	80
 合同生效	wmty	11
 合同关系	wmut	60
+健峯公司	wmwn	88
 催你	wmwq	93
 合同价格	wmws	72
+仙峯谷	wmww	56
 你刚纔	wmxq	99
 你刚纔说什么	wmxt	54
 您刚纔发送的消息	wmxt	63
@@ -37769,6 +38086,7 @@ use_preset_vocabulary: true
 祭祖节	wpab	53
 剑之荣耀	wpai	75
 公寓式住宅	wpap	30
+亿客隆计算机城	wpbf	25
 仁宗耶律夷列	wpbg	65
 余额承上	wpbh	4
 侠客联盟	wpbj	24
@@ -37826,7 +38144,9 @@ use_preset_vocabulary: true
 余额递减折旧法	wpui	26
 余额递减折旧方法	wpui	55
 余额递减法	wpui	62
+黛安娜	wpvn	42
 公寓灵	wpvo	63
+付家俬厨	wpwd	77
 伤之仇	wpwv	43
 估定价值	wpww	11
 住宅组团	wpxl	64
@@ -37879,6 +38199,7 @@ use_preset_vocabulary: true
 全金卡	wqhg	18
 你点	wqhk	11
 你睡	wqht	97
+八角小区	wqia	59
 你多少级了	wqib	97
 凤卿尘	wqif	66
 你外婆	wqih	19
@@ -37893,6 +38214,7 @@ use_preset_vocabulary: true
 你滴	wqiy	74
 像是	wqjg	36
 您是	wqjg	44
+八角中里小区	wqka	94
 你猜啊	wqkb	18
 你猪啊	wqkb	59
 你吧	wqkc	28
@@ -37969,6 +38291,7 @@ use_preset_vocabulary: true
 倾销税	wqtu	58
 你很	wqtv	63
 华尔街大亨	wqty	36
+八角北里小区	wqua	55
 你关	wqud	31
 你装	wquf	4
 佐久间	wquj	87
@@ -38053,8 +38376,10 @@ use_preset_vocabulary: true
 你看一看	wrgr	70
 保持平衡	wrgt	17
 风眠	wrhn	63
+什剎海公园	wril	30
 信托法团	wril	74
 你欣赏它	wrip	90
+什剎海会馆	wriq	69
 什剎海	writ	91
 风渊	writ	96
 你的电话是多少	wrji	58
@@ -38471,6 +38796,7 @@ use_preset_vocabulary: true
 什么玩意儿	wtgq	79
 作死	wtgq	79
 货币互换	wtgr	75
+信息与计算机	wtgs	21
 人行天桥	wtgs	38
 优先求偿权	wtgs	47
 债务到期期限结构	wtgs	52
@@ -39682,6 +40008,7 @@ use_preset_vocabulary: true
 传统计价法	wxyi	15
 传统商品	wxyk	17
 领旨谢恩	wxyl	32
+八维计算器学校	wxys	65
 佛州	wxyt	100
 保费率	wxyx	88
 佛诞节	wyab	55
@@ -39815,6 +40142,7 @@ use_preset_vocabulary: true
 焦山	wymm	20
 优享购	wymq	70
 会计账务	wymt	45
+伯朗峯	wymt	62
 会计账簿	wymt	90
 凭证账簿审计	wymy	1
 会计恒等式	wyna	44
@@ -40030,6 +40358,7 @@ use_preset_vocabulary: true
 红戒	xaaa	10
 红草莓乐队	xaab	41
 红黄蓝幼儿园	xaal	17
+红菜薹酒店	xaao	78
 绿荫区	xaar	37
 纸草花式柱	xaas	73
 红草莓	xaat	74
@@ -40518,6 +40847,7 @@ use_preset_vocabulary: true
 结账分录	xmwv	42
 红崖谷	xmww	52
 红山乡	xmxt	16
+经网络	xmxt	34
 结账调整	xmyg	47
 结账试算表	xmyg	86
 弹性工作制度	xnao	50
@@ -40563,12 +40893,14 @@ use_preset_vocabulary: true
 引以为豪	xnyy	92
 引爆者	xoft	80
 缠死	xogq	80
+红庙小区	xoia	61
 结业津贴	xoim	72
 张炜星	xojt	10
 毕业照	xojv	43
 毕业宴	xopj	20
 缠枝	xosf	98
 张炯敏	xotx	87
+红庙北里小区	xoua	82
 纯粹债券	xowu	68
 比赛取消了	xpbb	60
 绝密者	xpft	40
@@ -41315,6 +41647,7 @@ use_preset_vocabulary: true
 就不要	ydsv	81
 商春松	ydsw	94
 话不可乱说	ydsy	50
+高原街小区	ydta	25
 就不知道了	ydtb	15
 市面租金	ydtq	10
 方大特钢	ydtq	97
@@ -41536,6 +41869,7 @@ use_preset_vocabulary: true
 郭嘉文	yfyy	31
 市场效率	yfyy	82
 主卧	ygah	67
+高丽蔘鸡汤	ygai	20
 高平陵	ygbf	29
 就来了	ygbn	78
 就下了	ygbn	83
@@ -41701,6 +42035,7 @@ use_preset_vocabulary: true
 高兴不起来	yidg	1
 高学成	yidn	3
 方尖碑	yidr	68
+刘海胡衕	yidt	70
 旅游用	yieh	93
 旅游地理	yifg	78
 高流动资金额	yifp	86
@@ -41723,6 +42058,7 @@ use_preset_vocabulary: true
 放活国有小企业	yilo	30
 刘学周	yimf	62
 文兴宇	yipg	38
+京洋逸峯	yiqm	48
 旅游包	yiqn	92
 刘泳希	yird	84
 说清楚点	yish	9
@@ -41991,6 +42327,7 @@ use_preset_vocabulary: true
 就吃	ykkt	98
 说唱圈	yklu	10
 商品购买力	ykme	51
+鹫峯	ykmt	100
 高峯	ykmt	62
 商品账户	ykmy	47
 市中心商业区	ykna	51
@@ -42086,6 +42423,7 @@ use_preset_vocabulary: true
 认购股权证书	ymen	48
 认购股本	ymes	90
 文峰塔	ymfa	21
+文峯塔	ymfa	60
 认同过	ymfp	77
 认购者	ymft	90
 刘丹丽	ymgm	8
@@ -42107,9 +42445,11 @@ use_preset_vocabulary: true
 市的	ymrq	45
 许凯皓	ymrt	26
 认购权	ymsc	95
+鹫峯森林公园	ymsl	16
 高山植物园	ymsl	94
 认购权证	ymsy	72
 记账簿记学	ymti	23
+永峯物流	ymti	41
 请购单	ymul	57
 高山风景区	ymwa	3
 认购价格	ymws	38
@@ -42148,6 +42488,7 @@ use_preset_vocabulary: true
 嬴政	yngh	4
 永裴	ynhd	92
 说慢点	ynhk	55
+京民小区	ynia	39
 诛心泪	ynih	58
 忘忧酒馆	yniq	92
 交收日期	ynja	22
@@ -42187,6 +42528,7 @@ use_preset_vocabulary: true
 高层资源会议策动	ynuf	66
 亡音	ynuj	18
 刻章	ynuj	5
+施展塑料	ynuo	93
 高收益债券基金	ynuq	46
 高收益债券	ynuu	14
 高层资源会	ynuw	58
@@ -42301,6 +42643,7 @@ use_preset_vocabulary: true
 六神磊磊	ypdd	42
 高祖石敬瑭	ypdg	70
 永安石桥	ypds	52
+方家胡衕	ypdt	41
 夜神月	ypee	42
 设定股本申报股	ypee	7
 永安寺	ypff	67
@@ -42355,6 +42698,7 @@ use_preset_vocabulary: true
 评定信用等级	ypwx	44
 评定债券等级	ypwx	77
 高祖刘知远	ypyf	62
+永安计算机城	ypyf	91
 高祖刘渊	ypyi	43
 文宣帝高洋	ypyi	80
 高祖刘暠	ypyj	50
@@ -42499,6 +42843,7 @@ use_preset_vocabulary: true
 刘楚玉	ysgy	68
 言楚非	yshd	27
 订点	yshk	88
+刘村小区	ysia	30
 谭洁	ysif	81
 高木涉	ysih	30
 六根清凈	ysiu	25
@@ -42620,10 +42965,14 @@ use_preset_vocabulary: true
 这么早啊	ytjk	12
 记得啊	ytkb	77
 记得吗	ytkc	76
+计算器系统应用	ytke	88
+计算器市场	ytkf	47
+计算器仿真	ytkf	95
 请我吃饭吧	ytkk	78
 放勋	ytkm	53
 谢啦	ytkr	63
 记得哦	ytkt	2
+计算器与通信	ytkw	51
 计算器层析成像	ytkw	90
 计算器监控系统	ytkx	57
 计算器二级	ytkx	59
@@ -42667,13 +43016,18 @@ use_preset_vocabulary: true
 旅行的意义	ytry	75
 施廷懋	ytsc	9
 计算机爱好者	ytsf	25
+计算机大世界	ytsl	61
 计算机游戏迷	ytso	89
 计算机迷	ytso	96
+计算机商报社	ytsp	10
 计算机包	ytsq	19
 计算机报	ytsr	100
 评税根据	ytsr	74
 旋木	ytss	70
+计算机培训学校	ytss	80
+计算机耗材	ytss	83
 让我想想	ytss	84
+计算机职业学校	ytss	97
 放生桥	ytst	92
 评税标准	ytsu	2
 计算机管理系统	ytsx	77
@@ -42760,6 +43114,8 @@ use_preset_vocabulary: true
 证券上市公司	yuhn	80
 证券上市公司年度	yuho	49
 证券上市公司季度	yuho	83
+永新小区	yuia	27
+永善小区	yuia	49
 商誉	yuig	63
 市况淡静	yuig	91
 变产清算表	yuig	92
@@ -43105,6 +43461,7 @@ use_preset_vocabulary: true
 商纣王	yxgg	13
 谍纸天眼	yxgh	95
 商纣王帝辛	yxgu	95
+良乡小区	yxia	30
 玄水	yxii	23
 旅费津贴	yxim	18
 高蠡暴动烈士纪念塔	yxjf	95
@@ -43183,7 +43540,7 @@ use_preset_vocabulary: true
 齐襄王田法章	yygu	60
 郭文珺	yygv	79
 主义理论	yygy	10
-谣言止于智者	yyhf	1
+谣言止于智者	yyhf	11
 房玄龄	yyhw	6
 文淇	yyia	18
 访港	yyia	20
@@ -43191,15 +43548,15 @@ use_preset_vocabulary: true
 望京小腰	yyie	51
 方洁	yyif	57
 试误法	yyif	65
-论语里面	yyjd	100
-该是	yyjg	100
-认为是	yyjg	16
+论语里面	yyjd	10
+该是	yyjg	200
+认为是	yyjg	86
 文晏	yyjp	48
 这就是我	yyjt	84
-认识呀	yyka	22
-讲话啊	yykb	100
+认识呀	yyka	40
+讲话啊	yykb	20
 认识啊	yykb	27
-说说啊	yykb	34
+说说啊	yykb	14
 谢谢啊	yykb	52
 说话吧	yykc	24
 认识吗	yykc	29
@@ -43208,7 +43565,7 @@ use_preset_vocabulary: true
 文忠	yykh	33
 调剂中心	yykn	92
 谢谢啦	yykr	74
-谢谢哦	yykt	11
+谢谢哦	yykt	61
 谢谢咯	yykt	79
 放弃财产	yymu	62
 这就怪了	yynb	99
@@ -43227,20 +43584,20 @@ use_preset_vocabulary: true
 方勉	yyqk	14
 永亨银行有限公司	yyqn	73
 该挨	yyrc	68
-说说看啊	yyrk	3
+说说看啊	yyrk	32
 谁说的啊	yyrk	69
 讲义气	yyrn	25
-谁说的	yyrq	13
-高效的	yyrq	26
+谁说的	yyrq	132
+高效的	yyrq	226
 商谈的	yyrq	34
 设计批准	yyru	39
 就这样了	yysb	86
-就这样子	yysb	99
+就这样子	yysb	199
 话语权	yysc	33
 许文楠	yysf	81
 文丁	yysg	61
-就这样啊	yysk	38
-就这样吧	yysk	7
+就这样啊	yysk	48
+就这样吧	yysk	72
 许豪杰	yyso	54
 言杰	yyso	9
 设计概算	yyst	34
@@ -43250,8 +43607,8 @@ use_preset_vocabulary: true
 就这么定了	yytb	59
 言生	yytg	84
 认识我吗	yytk	96
-设计程序	yyto	11
-该我	yytr	41
+设计程序	yyto	81
+该我	yytr	71
 设计委托	yytr	62
 放弃航次	yytu	16
 就这么简单	yytu	83
@@ -43263,7 +43620,7 @@ use_preset_vocabulary: true
 谢谢关心	yyun	86
 设计前期工作	yyuw	60
 说话好吗	yyvk	5
-谢谢你了	yywb	19
+谢谢你了	yywb	79
 询证信函	yywb	2
 齐哀公	yywc	20
 齐襄公	yywc	52
@@ -43273,8 +43630,8 @@ use_preset_vocabulary: true
 旅交会	yywf	67
 京享值	yywf	79
 齐文公吕赤	yywf	82
-就这个	yywh	3
-谢谢你哦	yywk	1
+就这个	yywh	84
+谢谢你哦	yywk	82
 谢谢你啊	yywk	67
 设计合同	yywm	47
 谢谢你的关心	yywn	12
