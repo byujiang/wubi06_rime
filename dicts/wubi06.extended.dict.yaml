@@ -22,7 +22,6 @@ import_tables:
   - wubi06.poem
   - wubi06.user
   - wubi06.idiom
-  - wubi06.place
   - wubi06.taiwan
   - wubi06.english
   - wubi06.kaomoji
