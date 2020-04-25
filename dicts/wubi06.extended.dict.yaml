@@ -21,6 +21,7 @@ import_tables:
   - wubi06.life
   - wubi06.poem
   - wubi06.user
+  - wubi06.word
   - wubi06.idiom
   - wubi06.taiwan
   - wubi06.english
