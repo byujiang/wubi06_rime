@@ -59,7 +59,7 @@ speller:
   #max_code_length: 4
 
 translator:
-  dictionary: wubi06
+  dictionary: wubi06.extended
   prism: wubi06_trad
   enable_charset_filter: true
   disable_user_dict_for_patterns:

@@ -16,12 +16,12 @@
 #   'recognizer/patterns/punct': "^/([a-z]+|[0-9])$"
 
 #   show_notifications_via_notification_center: false
-# 
+
 patch:
-  engine/translators:
-    - punct_translator
-    - r10n_translator
-    - reverse_lookup_translator
+  # engine/translators:
+  #  - punct_translator
+  #  - r10n_translator
+  #  - reverse_lookup_translator
 
   engine/filters:
     - uniquifier
@@ -35,13 +35,12 @@ patch:
   translator:
     dictionary: wubi06.extended
     enable_charset_filter: true
+    enable_user_dict: true
     enable_sentence: true
     enable_encoder: true
     encode_commit_history: true
-    #max_phrase_length: 4
-    #enable_completion: true
-    enable_user_dict: true
-    enable_encoder: true
+ #  max_phrase_length: 4
+    enable_completion: true
 
   abc_segmentor:
     extra_tags:
@@ -66,7 +65,6 @@ patch:
     patterns:
       reverse_lookup: "`[a-z]*$"
       punct: "^/[0-9a-z]*$"
-        #      myemoji: "^"
   us_keyboard_layout: true
 
 #### emoji_suggestion

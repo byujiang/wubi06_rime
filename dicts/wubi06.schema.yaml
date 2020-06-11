@@ -1,13 +1,37 @@
-# Rime schema settings
+# Rime wubi06 schema settings
 # encoding: utf-8
+# save it to:
+#   ~/.config/ibus/rime  (linux)
+#   ~/Library/Rime       (macos)
+#   %APPDATA%\Rime       (windows)
+
+# patch:
+#   key_binder:
+#     bindings:
+#       - {accept: Return, send: Escape, when: composing}
+#       - {accept: semicolon, send: 2, when: has_menu}
+#       - {accept: apostrophe, send: 3, when: has_menu}
+#     import_preset: default
+
+#   'punctuator/import_preset': symbols
+#   'recognizer/patterns/punct': "^/([a-z]+|[0-9])$"
+
+#   show_notifications_via_notification_center: false
+# 
+patch:
+  engine/translators:
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
 
 schema:
   schema_id: wubi06
   name: "新世纪五笔"
-  version: 0.2.custom.2010091917
+  version: 0.3
   author:
     - "發明人 王永民先生"
-    - "制作人 Amito"
+    - "制作人 Amito <byujiang@gmail.com>"
+
   description:
     新世纪五笔 Amito
     敲 z 鍵進入拼音反查
@@ -42,23 +66,24 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - table_translator
     - punct_translator
+    - r10n_translator
     - reverse_lookup_translator
+    - table_translator
 
 speller:
   delimiter: " ;'"
-  #  max_code_length: 4
+  #max_code_length: 4
 
 translator:
   dictionary: wubi06
   enable_charset_filter: true
   enable_sentence: true
   enable_encoder: true
+  enable_user_dict: true
   encode_commit_history: true
 #  max_phrase_length: 4
-#  enable_completion: true
-  enable_user_dict: true
+  enable_completion: true
   disable_user_dict_for_patterns:
     - "^z.*$"
     - "^[a-y]{1,3}$"
@@ -92,31 +117,3 @@ recognizer:
   patterns:
     punct: "^/([a-z]+|[0-9])$"
     reverse_lookup: "^z[a-z]*$"
-
-preset_color_schemes:
-  apathy:
-    author: "LIANG Hai"
-    back_color: 0xFFFFFF
-    border_height: 0
-    border_width: 0
-    candidate_format: "%c %@ "
-    comment_text_color: 0x999999
-    corner_radius: 5
-    font_face: "PingFangSC-Regular,H-SiuNiu,HanaMinA"
-    font_point: 16
-    hilited_candidate_back_color: 0xFFF0E4
-    hilited_candidate_text_color: 0xEE6E00
-    horizontal: true
-    inline_preedit: true
-    label_font_face: "PingFangSC-Light"
-    label_font_point: 11
-    name: "冷漠 / Apathy"
-    text_color: 0x424242
-
-show_notifications_via_notification_center: true
-
-style:
-  #color_scheme: lost_temple
-  color_scheme: apathy
-
-us_keyboard_layout: true

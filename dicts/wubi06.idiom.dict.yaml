@@ -138,7 +138,8 @@ use_preset_vocabulary: true
 切切察察	aapp	42
 茫茫宇宙	aapp	69
 区区冗冗	aapp	9
-藏巧守拙	aapr	6
+藏巧守拙	aapr	66
+花落宫廷错流年	aapr	22
 落蓐之身	aapt	2
 草莽寒门	aapu	6
 草茅之产	aapu	85
@@ -384,6 +385,7 @@ use_preset_vocabulary: true
 斯须之报	aepr	6
 花月之身	aept	31
 鹊驾银河	aeqi	61
+黄鼠狼给鸡拜年	aeqr	42
 花脚猫	aeqt	50
 花边鬼头	aeru	12
 匹力扑六	aery	3
@@ -2118,6 +2120,7 @@ use_preset_vocabulary: true
 耿介之士	bwpf	49
 阿僧祇劫	bwpf	53
 出人之才	bwpf	90
+防人之心不可无	bwpf	66
 随侯之珠	bwpg	46
 耳食之学	bwpi	39
 耳食之见	bwpm	27
@@ -31463,6 +31466,7 @@ use_preset_vocabulary: true
 谦谦下士	yygf	40
 齐齐整整	yygg	38
 熟读玩味	yygk	34
+谣言止于智者	yyhf	11
 玄衣督邮	yyhm	73
 高谈虚辞	yyht	74
 高义溥天	yyig	25
@@ -31504,13 +31508,11 @@ use_preset_vocabulary: true
 敦敦实实	yypp	36
 方方窍窍	yypp	47
 详计审处	yypt	26
-询訏之乐	yypt	43
 膏肓之病	yypu	62
 訏谟定命	yypw	63
 豪言空话	yypy	15
 义方之训	yypy	98
 高文宏议	yypy	98
-六六鳞	yyqg	66
 旗扁银两	yyqg	79
 议论多成功少	yyqi	37
 卒卒鲜暇	yyqj	44
@@ -31533,7 +31535,6 @@ use_preset_vocabulary: true
 义方垂范	yyta	4
 言谈自若	yyta	61
 访论稽古	yytd	21
-言语行为有条理	yytg	27
 言论行事	yytg	37
 调高和寡	yytp	82
 诩诩自得	yytt	1
