@@ -16,12 +16,12 @@
 #   'recognizer/patterns/punct': "^/([a-z]+|[0-9])$"
 
 #   show_notifications_via_notification_center: false
-# 
+
 patch:
-  engine/translators:
-    - punct_translator
-    - r10n_translator
-    - reverse_lookup_translator
+  #  engine/translators:
+  #    - punct_translator
+  #    - r10n_translator
+  #    - reverse_lookup_translator
 
   engine/filters:
     - uniquifier
@@ -36,14 +36,12 @@ patch:
     dictionary: wubi06.extended
     prism: wubi06_pinyin
     enable_charset_filter: true
+    enable_user_dict: true
     enable_sentence: true
     enable_encoder: true
     encode_commit_history: true
-  #  max_phrase_length: 4
+#    max_phrase_length: 4
     enable_completion: true
-    enable_user_dict: true
-    enable_encoder: true
-
 
   dependencies:
     - pinyin_simp
@@ -53,6 +51,7 @@ patch:
       - reverse_lookup
   reverse_lookup:
     dictionary: pinyin_simp
+    enable_completion: false
     prefix: "`"
     suffix: "'"
     tips: "〔拼音|表情〕"

@@ -33,9 +33,9 @@ def gen_codes():
 		freq=rand(freq_min, freq_max)
 		code=''
 		try:
-			if len(w) is 2:
+			if len(w) == 2:
 				code = w + "\t" + chars[w[0]][0:2]+chars[w[1]][0:2] + "\t" + str(freq)
-			if len(w) is 3:
+			if len(w) == 3:
 				code = w + "\t" + chars[w[0]][0]+chars[w[1]][0]+chars[w[2]][0:2] + "\t" + str(freq)
 			if len(w) >= 4:
 				code = w + "\t" + chars[w[0]][0]+chars[w[1]][0]+chars[w[2]][0]+chars[w[-1]][0] + "\t" + str(freq)

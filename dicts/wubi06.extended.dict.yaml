@@ -9,24 +9,36 @@
 
 ---
 name: wubi06.extended
-version: "2020.04.07"
+version: "2020.04.26"
 sort: by_weight
-#sort: original
-use_preset_vocabulary: true
+columns:
+  - text
+  - code
+  - weight
+  - stem
+encoder:
+  exclude_patterns:
+    - '^z.*$'
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 10]
+      formula: "AaBaCaZa"
 import_tables:
-  #### wubi06 is neccessary
-  - wubi06
-  - wubi06.ms
-  - wubi06.chat
-  - wubi06.life
-  - wubi06.poem
-  - wubi06.user
-  - wubi06.word
-  - wubi06.idiom
-  - wubi06.taiwan
-  - wubi06.english
-  - wubi06.kaomoji
-  - wubi06.science
-  - wubi06.music
-  - wubi06.movie
+    - wubi06
+    - wubi06.chat
+    - wubi06.life
+    - wubi06.poem
+    - wubi06.user
+    - wubi06.idiom
+    - wubi06.english
+    - wubi06.kaomoji
+    - wubi06.science
+    - wubi06.ms
+  #- wubi06.music
+  #- wubi06.movie
+  #- wubi06.taiwan
 ...
+

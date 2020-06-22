@@ -1,0 +1,76 @@
+# wubi06.custom.yaml
+# save it to:
+#   ~/.config/ibus/rime  (linux)
+#   ~/Library/Rime       (macos)
+#   %APPDATA%\Rime       (windows)
+
+# patch:
+#   key_binder:
+#     bindings:
+#       - {accept: Return, send: Escape, when: composing}
+#       - {accept: semicolon, send: 2, when: has_menu}
+#       - {accept: apostrophe, send: 3, when: has_menu}
+#     import_preset: default
+
+#   'punctuator/import_preset': symbols
+#   'recognizer/patterns/punct': "^/([a-z]+|[0-9])$"
+
+#   show_notifications_via_notification_center: false
+# 
+patch:
+  engine/translators:
+    - punct_translator
+    - r10n_translator
+    - reverse_lookup_translator
+
+  engine/filters:
+    - uniquifier
+
+  fixed:
+    __include: wubi06.schema:/translator
+    enable_user_dict: false
+    enable_completion: false
+    initial_quality: 10000
+
+  translator:
+    dictionary: wubi06.extended
+    enable_charset_filter: true
+    enable_sentence: true
+    enable_encoder: true
+    encode_commit_history: true
+    #max_phrase_length: 4
+    #enable_completion: true
+    enable_user_dict: true
+    enable_encoder: true
+
+  abc_segmentor:
+    extra_tags:
+      - reverse_lookup
+  reverse_lookup:
+    dictionary: pinyin_simp
+    enable_completion: false
+    prefix: "`"
+    suffix: "'"
+    tips: "〔拼音|表情〕"
+
+  preedit_format:
+    - "xform/([nl])v/$1ü/"
+    - "xform/([nl])ue/$1üe/"
+    - "xform/([jqxy])v/$1u/"
+
+  punctuator:
+    import_preset: wubi06.symbols
+
+  recognizer:
+    import_preset: default
+    patterns:
+      reverse_lookup: "`[a-z]*$"
+      punct: "^/[0-9a-z]*$"
+  us_keyboard_layout: true
+
+#### emoji_suggestion
+__patch:
+# Rx: emoji:customize:schema=wubi06 {
+  - patch/+:
+      __include: emoji_suggestion:/patch
+# }
