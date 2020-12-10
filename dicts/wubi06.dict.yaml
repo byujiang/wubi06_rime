@@ -10828,10 +10828,10 @@ encoder:
 瓎	ggkm	19
 瑓	ggli	74
 一	ggll	37
-㺻	ggmh	22
-㺰	ggmh	25
-㻷	ggmi	20
-玙	ggng	29
+㺻	ggmh	12
+㺰	ggmh	15
+㻷	ggmi	10
+玙	ggng	19
 瑟	ggnt	32
 珁	ggny	11
 瑨	ggoj	11
@@ -42343,6 +42343,7 @@ encoder:
 干冰	fgui	168
 雨意	fguj	266
 干部	fguk	282
+二次	fguq	885
 干净	fguq	355
 干亲	fgus	700
 干道	fgut	25
@@ -45865,7 +45866,7 @@ encoder:
 环环相扣	ggsr	228
 一枚	ggst	10
 一样	ggsu	977
-一根	ggsv	87
+一根	ggsv	187
 一概	ggsv	43
 歼击机	ggsw	28
 一枪	ggsw	51
@@ -45880,11 +45881,11 @@ encoder:
 王牌	ggth	61
 一秒	ggti	171
 一种	ggtk	699
-一向	ggtm	890
+一向	ggtm	490
 一身	ggtm	132
 严于律己	ggtn	478
 一番	ggto	331
-一管	ggtp	123
+一管	ggtp	23
 王筝	ggtq	310
 一条	ggts	886
 来来往往	ggtt	125
@@ -45896,7 +45897,7 @@ encoder:
 球瘾	ggub	370
 球状	ggud	204
 一头	ggud	358
-一瓣	ggud	115
+一瓣	ggud	85
 一半	ggug	405
 五音	gguj	521
 一间	gguj	927
@@ -45924,11 +45925,11 @@ encoder:
 王侯	ggwn	228
 一伙	ggwo	58
 球风	ggwr	40
-王爷	ggwr	168
+王爷	ggwr	68
 一体	ggws	311
 球体	ggws	730
-一朵	ggws	284
-王八	ggwt	298
+一朵	ggws	184
+王八	ggwt	198
 一件	ggwt	694
 王位	ggwu	75
 一位	ggwu	754
@@ -59795,7 +59796,7 @@ encoder:
 见风转舵	mwlt	57
 内圈	mwlu	903
 内嵌	mwma	693
-赊购	mwmq	68
+赊购	mwmq	28
 崔嵬	mwmr	4
 见仁见智	mwmt	271
 赊账	mwmt	551
@@ -79082,7 +79083,7 @@ encoder:
 重命名	twqk	510
 自作多情	twqn	932
 稚拙	twrb	360
-答拜	twrd	575
+答拜	twrd	175
 秉公执法	twri	784
 签押	twrl	475
 稚气	twrn	492
@@ -84953,7 +84954,7 @@ encoder:
 合身	wgtm	43
 便秘	wgtn	215
 全称	wgtq	422
-傲物	wgtq	254
+傲物	wgtq	54
 便条	wgts	421
 命笔	wgtt	576
 合乎	wgtu	53
