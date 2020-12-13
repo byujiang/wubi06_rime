@@ -26,11 +26,12 @@ patch:
   engine/filters:
     - uniquifier
 
-  fixed:
-    __include: wubi06_pinyin.schema:/translator
-    enable_user_dict: false
-    enable_completion: false
-    initial_quality: 10000
+  #### This may cause pingyin ill-function
+  #fixed:
+  #  __include: wubi06_pinyin.schema:/translator
+  #  enable_user_dict: false
+  #  enable_completion: false
+  #  initial_quality: 10000
 
   translator:
     dictionary: wubi06.extended
